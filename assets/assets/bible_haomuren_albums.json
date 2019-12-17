@@ -1,0 +1,662 @@
+[
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1001,
+        "name": "汉语和合本-好牧人版 创世记",
+        "songCount": 50,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1002,
+        "name": "汉语和合本-好牧人版 出埃及记",
+        "songCount": 40,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1003,
+        "name": "汉语和合本-好牧人版 利未记",
+        "songCount": 27,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1004,
+        "name": "汉语和合本-好牧人版 民数记",
+        "songCount": 36,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1005,
+        "name": "汉语和合本-好牧人版 申命记",
+        "songCount": 34,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1006,
+        "name": "汉语和合本-好牧人版 约书亚记",
+        "songCount": 24,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1007,
+        "name": "汉语和合本-好牧人版 士师记",
+        "songCount": 21,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1008,
+        "name": "汉语和合本-好牧人版 路得记",
+        "songCount": 4,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1009,
+        "name": "汉语和合本-好牧人版 撒母耳记上",
+        "songCount": 31,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1010,
+        "name": "汉语和合本-好牧人版 撒母耳记下",
+        "songCount": 24,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1011,
+        "name": "汉语和合本-好牧人版 列王记上",
+        "songCount": 22,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1012,
+        "name": "汉语和合本-好牧人版 列王记下",
+        "songCount": 25,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1013,
+        "name": "汉语和合本-好牧人版 历代志上",
+        "songCount": 29,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1014,
+        "name": "汉语和合本-好牧人版 历代志下",
+        "songCount": 36,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1015,
+        "name": "汉语和合本-好牧人版 以斯拉记",
+        "songCount": 10,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1016,
+        "name": "汉语和合本-好牧人版 尼希米记",
+        "songCount": 13,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1017,
+        "name": "汉语和合本-好牧人版 以斯帖记",
+        "songCount": 10,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1018,
+        "name": "汉语和合本-好牧人版 约伯记",
+        "songCount": 42,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1019,
+        "name": "汉语和合本-好牧人版 诗篇",
+        "songCount": 150,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1020,
+        "name": "汉语和合本-好牧人版 箴言",
+        "songCount": 31,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1021,
+        "name": "汉语和合本-好牧人版 传道书",
+        "songCount": 12,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1022,
+        "name": "汉语和合本-好牧人版 雅歌",
+        "songCount": 8,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1023,
+        "name": "汉语和合本-好牧人版 以赛亚书",
+        "songCount": 66,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1024,
+        "name": "汉语和合本-好牧人版 耶利米书",
+        "songCount": 52,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1025,
+        "name": "汉语和合本-好牧人版 耶利米哀歌",
+        "songCount": 5,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1026,
+        "name": "汉语和合本-好牧人版 以西结书",
+        "songCount": 48,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1027,
+        "name": "汉语和合本-好牧人版 但以理书",
+        "songCount": 12,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1028,
+        "name": "汉语和合本-好牧人版 何西阿书",
+        "songCount": 14,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1029,
+        "name": "汉语和合本-好牧人版 约珥书",
+        "songCount": 3,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1030,
+        "name": "汉语和合本-好牧人版 阿摩司书",
+        "songCount": 9,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1031,
+        "name": "汉语和合本-好牧人版 俄巴底亚书",
+        "songCount": 1,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1032,
+        "name": "汉语和合本-好牧人版 约拿书",
+        "songCount": 4,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1033,
+        "name": "汉语和合本-好牧人版 弥迦书",
+        "songCount": 7,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1034,
+        "name": "汉语和合本-好牧人版 那鸿书",
+        "songCount": 3,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1035,
+        "name": "汉语和合本-好牧人版 哈巴谷书",
+        "songCount": 3,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1036,
+        "name": "汉语和合本-好牧人版 西番雅书",
+        "songCount": 3,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1037,
+        "name": "汉语和合本-好牧人版 哈该书",
+        "songCount": 2,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1038,
+        "name": "汉语和合本-好牧人版 撒迦利亚书",
+        "songCount": 14,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1039,
+        "name": "汉语和合本-好牧人版 玛拉基书",
+        "songCount": 4,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1040,
+        "name": "汉语和合本-好牧人版 马太福音",
+        "songCount": 28,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1041,
+        "name": "汉语和合本-好牧人版 马可福音",
+        "songCount": 16,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1042,
+        "name": "汉语和合本-好牧人版 路加福音",
+        "songCount": 24,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1043,
+        "name": "汉语和合本-好牧人版 约翰福音",
+        "songCount": 21,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1044,
+        "name": "汉语和合本-好牧人版 使徒行传",
+        "songCount": 28,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1045,
+        "name": "汉语和合本-好牧人版 罗马书",
+        "songCount": 16,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1046,
+        "name": "汉语和合本-好牧人版 哥林多前书",
+        "songCount": 16,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1047,
+        "name": "汉语和合本-好牧人版 哥林多后书",
+        "songCount": 13,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1048,
+        "name": "汉语和合本-好牧人版 加拉太书",
+        "songCount": 6,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1049,
+        "name": "汉语和合本-好牧人版 以弗所书",
+        "songCount": 6,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1050,
+        "name": "汉语和合本-好牧人版 腓立比书",
+        "songCount": 4,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1051,
+        "name": "汉语和合本-好牧人版 歌罗西书",
+        "songCount": 4,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1052,
+        "name": "汉语和合本-好牧人版 帖撒罗尼迦前书",
+        "songCount": 5,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1053,
+        "name": "汉语和合本-好牧人版 帖撒罗尼迦后书",
+        "songCount": 3,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1054,
+        "name": "汉语和合本-好牧人版 提摩太前书",
+        "songCount": 6,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1055,
+        "name": "汉语和合本-好牧人版 提摩太后书",
+        "songCount": 4,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1056,
+        "name": "汉语和合本-好牧人版 提多书",
+        "songCount": 3,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1057,
+        "name": "汉语和合本-好牧人版 腓利门书",
+        "songCount": 1,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1058,
+        "name": "汉语和合本-好牧人版 希伯来书",
+        "songCount": 13,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1059,
+        "name": "汉语和合本-好牧人版 雅各书",
+        "songCount": 5,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1060,
+        "name": "汉语和合本-好牧人版 彼得前书",
+        "songCount": 5,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1061,
+        "name": "汉语和合本-好牧人版 彼得后书",
+        "songCount": 3,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1062,
+        "name": "汉语和合本-好牧人版 约翰一书",
+        "songCount": 5,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1063,
+        "name": "汉语和合本-好牧人版 约翰二书",
+        "songCount": 1,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1064,
+        "name": "汉语和合本-好牧人版 约翰三书",
+        "songCount": 1,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1065,
+        "name": "汉语和合本-好牧人版 犹大书",
+        "songCount": 1,
+        "albumCategoryId": 505,
+        "shortName": ""
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "3M",
+        "id": 1066,
+        "name": "汉语和合本-好牧人版 启示录",
+        "songCount": 22,
+        "albumCategoryId": 505,
+        "shortName": ""
+    }
+]

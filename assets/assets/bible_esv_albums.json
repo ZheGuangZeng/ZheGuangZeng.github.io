@@ -1,0 +1,662 @@
+[
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1101,
+		"name": "ESV英文 创世纪Genesis",
+		"songCount": 50,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1102,
+		"name": "ESV英文 出埃及记Exodus",
+		"songCount": 40,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1103,
+		"name": "ESV英文 利未记Leviticus",
+		"songCount": 27,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1104,
+		"name": "ESV英文 民数记Numbers",
+		"songCount": 36,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1105,
+		"name": "ESV英文 申命记Deuteronomy",
+		"songCount": 34,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1106,
+		"name": "ESV英文 约书亚记Joshua",
+		"songCount": 24,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1107,
+		"name": "ESV英文 士师记Judges",
+		"songCount": 21,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1108,
+		"name": "ESV英文 路得记Ruth",
+		"songCount": 4,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1109,
+		"name": "ESV英文 撒母耳记上1Samuel",
+		"songCount": 31,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1110,
+		"name": "ESV英文 撒母耳记下2Samuel",
+		"songCount": 24,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1111,
+		"name": "ESV英文 列王记上1Kings",
+		"songCount": 22,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1112,
+		"name": "ESV英文 列王记下2Kings",
+		"songCount": 25,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1113,
+		"name": "ESV英文 历代志上1Chronicles",
+		"songCount": 29,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1114,
+		"name": "ESV英文 历代志下2Chronicles",
+		"songCount": 36,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1115,
+		"name": "ESV英文 以斯拉记Ezra",
+		"songCount": 10,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1116,
+		"name": "ESV英文 尼希米记Nehemiah",
+		"songCount": 13,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1117,
+		"name": "ESV英文 以斯帖记Esther",
+		"songCount": 10,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1118,
+		"name": "ESV英文 约伯记Job",
+		"songCount": 42,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1119,
+		"name": "ESV英文 诗篇Psalms",
+		"songCount": 150,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1120,
+		"name": "ESV英文 箴言Proverbs",
+		"songCount": 31,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1121,
+		"name": "ESV英文 传道书Ecclesiastes",
+		"songCount": 12,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1122,
+		"name": "ESV英文 雅歌Songofsongs",
+		"songCount": 8,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1123,
+		"name": "ESV英文 以赛亚书Isaiah",
+		"songCount": 66,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1124,
+		"name": "ESV英文 耶利米书Jeremiah",
+		"songCount": 52,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1125,
+		"name": "ESV英文 耶利米哀歌Lamentations",
+		"songCount": 5,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1126,
+		"name": "ESV英文 以西结书Ezekie",
+		"songCount": 48,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1127,
+		"name": "ESV英文 但以理书Daniel",
+		"songCount": 12,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1128,
+		"name": "ESV英文 何西阿书Hosea",
+		"songCount": 14,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1129,
+		"name": "ESV英文 约珥书Joel",
+		"songCount": 3,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1130,
+		"name": "ESV英文 阿摩司书Amos",
+		"songCount": 9,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1131,
+		"name": "ESV英文 俄巴底亚书Obadiah",
+		"songCount": 1,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1132,
+		"name": "ESV英文 约拿书Jonah",
+		"songCount": 4,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1133,
+		"name": "ESV英文 弥迦书Micah",
+		"songCount": 7,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1134,
+		"name": "ESV英文 那鸿书Nahum",
+		"songCount": 3,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1135,
+		"name": "ESV英文 哈巴谷书Habakkuk",
+		"songCount": 3,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1136,
+		"name": "ESV英文 西番亚书Zephaniah",
+		"songCount": 3,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1137,
+		"name": "ESV英文 哈该书Haggai",
+		"songCount": 2,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1138,
+		"name": "ESV英文 撒迦利亚书Zechariah",
+		"songCount": 14,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1139,
+		"name": "ESV英文 玛拉基书Malachi",
+		"songCount": 4,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1140,
+		"name": "ESV英文 马太福音Matthew",
+		"songCount": 28,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1141,
+		"name": "ESV英文 马可福音Mark",
+		"songCount": 16,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1142,
+		"name": "ESV英文 路加福音Luke",
+		"songCount": 24,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1143,
+		"name": "ESV英文 约翰福音John",
+		"songCount": 21,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1144,
+		"name": "ESV英文 使徒行传Acts",
+		"songCount": 28,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1145,
+		"name": "ESV英文 罗马书Romans",
+		"songCount": 16,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1146,
+		"name": "ESV英文 哥林多前书1Corinthians",
+		"songCount": 16,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1147,
+		"name": "ESV英文 哥林多后书2Corinthians",
+		"songCount": 13,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1148,
+		"name": "ESV英文 加拉太书Galatians",
+		"songCount": 6,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1149,
+		"name": "ESV英文 以弗所书Ephesians",
+		"songCount": 6,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1150,
+		"name": "ESV英文 腓立比书Philippians",
+		"songCount": 4,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1151,
+		"name": "ESV英文 歌罗西书Colossians",
+		"songCount": 4,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1152,
+		"name": "ESV英文 帖撒罗尼迦前书1Thessalonians",
+		"songCount": 5,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1153,
+		"name": "ESV英文 帖撒罗尼迦后书2Thessalonians",
+		"songCount": 3,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1154,
+		"name": "ESV英文 提摩太前书1Timothy",
+		"songCount": 6,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1155,
+		"name": "ESV英文 提摩太后书2Timothy",
+		"songCount": 4,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1156,
+		"name": "ESV英文 提多书Titus",
+		"songCount": 3,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1157,
+		"name": "ESV英文 腓立门书Philemon",
+		"songCount": 1,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1158,
+		"name": "ESV英文 希伯来书Hebrews",
+		"songCount": 13,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1159,
+		"name": "ESV英文 雅各书James",
+		"songCount": 5,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1160,
+		"name": "ESV英文 彼得前书1Peter",
+		"songCount": 5,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1161,
+		"name": "ESV英文 彼得后书2Peter",
+		"songCount": 3,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1162,
+		"name": "ESV英文 约翰一书1John",
+		"songCount": 5,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1163,
+		"name": "ESV英文 约翰二书2John",
+		"songCount": 1,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1164,
+		"name": "ESV英文 约翰三书3John",
+		"songCount": 1,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1165,
+		"name": "ESV英文 犹大书Jude",
+		"songCount": 1,
+		"albumCategoryId": 506,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 1166,
+		"name": "ESV英文 启示录Revelation",
+		"songCount": 22,
+		"albumCategoryId": 506,
+		"shortName": ""
+	}
+]

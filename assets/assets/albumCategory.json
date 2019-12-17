@@ -1,0 +1,725 @@
+[
+    {
+        "id": 1,
+        "name": "信仰人生",
+        "image": "album_category_1_art_faith_life.png",
+        "artists": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "id": 2,
+        "name": "健康生活",
+        "image": "album_category_2_art_healthy_living.png",
+        "artists": [
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "id": 3,
+        "name": "成长学习",
+        "image": "album_category_3_art_grow_learn.png",
+        "artists": [
+            17,
+            18,
+            19,
+            1,
+            20,
+            2
+        ]
+    },
+    {
+        "id": 4,
+        "name": "职场智慧",
+        "image": "album_category_4_art_workplace_wisdom.png",
+        "artists": [
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "id": 5,
+        "name": "交友恋爱",
+        "image": "album_category_5_art_friendship_dating.png",
+        "artists": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+        ]
+    },
+    {
+        "id": 6,
+        "name": "婚姻家庭",
+        "image": "album_category_6_art_marriage_family.png",
+        "artists": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+        ]
+    },
+    {
+        "id": 7,
+        "name": "台庆专辑",
+        "image": "album_category_7_art_ly_anniversary.png",
+        "artists": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+        ]
+    },
+    {
+        "id": 101,
+        "name": "圣经总论",
+        "desc": "圣经背景、旧约浅说、新约浅说、旧约综览、新约综览...",
+        "image": "album_category_1_art_faith_life.png"
+    },
+    {
+        "id": 102,
+        "name": "摩西五经",
+        "desc": "摩西五经、创世记、申命记...",
+        "image": "album_category_2_art_healthy_living.png"
+    },
+    {
+        "id": 103,
+        "name": "旧约历史书",
+        "desc": "旧约历史书 I、 II、被掳与回归...",
+        "image": "album_category_3_art_grow_learn.png"
+    },
+    {
+        "id": 104,
+        "name": "诗歌智慧书",
+        "desc": "诗篇精选、诗歌智慧书 I 、II...",
+        "image": "album_category_4_art_workplace_wisdom.png"
+    },
+    {
+        "id": 105,
+        "name": "先知书",
+        "desc": "先知书 I、II、以赛亚书、耶利米书、但以理书、何西阿书...",
+        "image": "album_category_5_art_friendship_dating.png"
+    },
+    {
+        "id": 106,
+        "name": "福音书",
+        "desc": "符类福音、路加福音、约翰福音、耶稣的神迹、耶稣生平...",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 107,
+        "name": "使徒行传",
+        "desc": "使徒行传",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 108,
+        "name": "保罗书信",
+        "desc": "保罗书信 I II、罗马书、哥林多前后书、加拉太书、以弗所书、教牧书信...",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 109,
+        "name": "普通书信",
+        "desc": "普通书信、希伯来书、彼得书信、约翰书信...",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 110,
+        "name": "启示录",
+        "desc": "启示录",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 111,
+        "name": "基要真理",
+        "desc": "基本信仰、基要真理、基督教教义、永恒的救赎、异端与极端、慎思明辨(认识东方闪电)...",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 112,
+        "name": "基础神学",
+        "desc": "启示论、神论、基督论、救恩论、圣灵论、人论、教会论、末世论、教义神学导论、神迹奇事、差传神学...",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 113,
+        "name": "圣经神学",
+        "desc": "圣经神学、圣经文学导论、旧约神学、新约神学...",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 114,
+        "name": "文化思潮",
+        "desc": "创造与演化、基督教与科学、无神论与信仰、中国文化与基督教、民间信仰、苦难与罪恶...",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 115,
+        "name": "教会历史",
+        "desc": "教会历史、中国教会史、教会复兴运动、宣教布道史...",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 116,
+        "name": "基督徒生活",
+        "desc": "信仰与生活、基督徒生活、初信造就、祷告生活、灵修默想与应用、团契生活、基督化家庭、婚姻与家庭、职场伦理、基督教伦理学...",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 117,
+        "name": "事奉装备",
+        "desc": "事奉装备、事奉与生命、基督工人操守、圣经教师训练、查经组长训练、领袖训练I、领袖训练II、领袖事奉与训练、动员恩赐训练、本土差传、差传导论、基本研经法、解经与研经...",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 118,
+        "name": "教导牧养",
+        "desc": "释经与讲道、讲道学、中级讲道学、进深讲道学、讲道实习、教导与牧养、教牧学、教牧辅导、辅导学、婚姻辅导...",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 119,
+        "name": "教会事工",
+        "desc": "基督教教育、主日学教学法、教会关怀事工、团队事奉、拓展教会事工、教会增长、小组布道方法、单身事工、探访事工、青少年事工、崇拜学、圣乐事工、教会纪律、教会行政、长者事工...",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 201,
+        "name": "基督教教育系列",
+        "desc": "以理論實踐並重的教導，提供委身基督教教育者事奉之路",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 202,
+        "name": "婚姻與家庭系列",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 203,
+        "name": "好信息系列",
+        "desc": "網上即時收聽具有前瞻性和挑戰性的信息",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 204,
+        "name": "教會歷史系列",
+        "desc": "基督教的信仰是建立在歷史的事實上。研究基督教歷史，不但能讓我們對自己的信仰溯本清源，同時也能讓我們對子決定信心有認真的反省。",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 205,
+        "name": "神學與教義研究系列",
+        "desc": "正統神學思維與聖經真理講座，用以深化基督徒信仰基礎。",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 206,
+        "name": "實踐神學系列",
+        "desc": "培養信徒健全服事觀與方法，鼓勵信徒帶出更美的事奉。",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 301,
+        "name": "禱告節目",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 302,
+        "name": "青年節目",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 303,
+        "name": "主題系列",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 304,
+        "name": "儿童节目",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 305,
+        "name": "生命见证节目",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 306,
+        "name": "有聲聖經",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 307,
+        "name": "圣乐节目",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 401,
+        "name": "摩西五经",
+        "desc": "",
+        "image": "zdfj_category.png"
+    },
+    {
+        "id": 402,
+        "name": "历史书",
+        "desc": "",
+        "image": "zdfj_category.png"
+    },
+    {
+        "id": 403,
+        "name": "诗歌智慧书",
+        "desc": "",
+        "image": "zdfj_category.png"
+    },
+    {
+        "id": 404,
+        "name": "大先知书",
+        "desc": "",
+        "image": "zdfj_category.png"
+    },
+    {
+        "id": 405,
+        "name": "小先知书",
+        "desc": "",
+        "image": "zdfj_category.png"
+    },
+    {
+        "id": 406,
+        "name": "福音书",
+        "desc": "",
+        "image": "zdfj_category.png"
+    },
+    {
+        "id": 407,
+        "name": "使徒行传",
+        "desc": "",
+        "image": "zdfj_category.png"
+    },
+    {
+        "id": 408,
+        "name": "保罗书信",
+        "desc": "",
+        "image": "zdfj_category.png"
+    },
+    {
+        "id": 409,
+        "name": "普通书信",
+        "desc": "",
+        "image": "zdfj_category.png"
+    },
+    {
+        "id": 411,
+        "name": "启示录",
+        "desc": "",
+        "image": "zdfj_category.png"
+    },
+    {
+        "id": 412,
+        "name": "圣经专题",
+        "desc": "",
+        "image": "zdfj_category.png"
+    },
+    {
+        "id": 413,
+        "name": "圣经小知识",
+        "desc": "",
+        "image": "zdfj_category.png"
+    },
+    {
+        "id": 501,
+        "name": "汉语和合本-磐石版",
+        "desc": "磐石有声事工",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 502,
+        "name": "新译本-环球版",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 503,
+        "name": "汉语和合本-音乐版",
+        "desc": "香港汉语圣经协会",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 504,
+        "name": "NIV英文-新国际",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 505,
+        "name": "汉语和合本-好牧人版",
+        "desc": "",
+        "image": "album_category_113_art.jpg"
+    },
+    {
+        "id": 506,
+        "name": "ESV英文",
+        "desc": "",
+        "image": "album_category_113_art.jpg"
+    },
+    {
+        "id": 601,
+        "name": "良友诗歌",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 602,
+        "name": "儿童诗歌",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 609,
+        "name": "其他",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 701,
+        "name": "尔道自建 2014",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 702,
+        "name": "尔道自建 2015",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 703,
+        "name": "尔道自建 2016",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 704,
+        "name": "尔道自建 2017",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 801,
+        "name": "经文解析-旧约",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 802,
+        "name": "经文解析-新约",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 803,
+        "name": "经文解析-主题式",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 804,
+        "name": "信徒生活",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 805,
+        "name": "神学讲座",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 806,
+        "name": "福音信息",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 901,
+        "name": "广播剧",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 902,
+        "name": "儿童",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 903,
+        "name": "唐崇荣",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 904,
+        "name": "刘志雄",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 905,
+        "name": "高飞扬频道",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 906,
+        "name": "耶稣基督福音之美",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 907,
+        "name": "改革宗经典名著",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 999,
+        "name": "其他",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 1001,
+        "name": "活水",
+        "desc": "",
+        "image": "livingwater.jpg"
+    },
+    {
+        "id": 1002,
+        "name": "活水二",
+        "desc": "",
+        "image": "lv_2.jpg"
+    },
+    {
+        "id": 1003,
+        "name": "活水三",
+        "desc": "",
+        "image": "lv_3.png"
+    },
+    {
+        "id": 1004,
+        "name": "喜樂的心",
+        "desc": "",
+        "image": "joy.jpg"
+    },
+    {
+        "id": 1005,
+        "name": "靜夜亮光",
+        "desc": "",
+        "image": "evnbyevn.jpg"
+    },
+    {
+        "id": 1006,
+        "name": "荒漠甘泉樂侶",
+        "desc": "",
+        "image": "sit.jpg"
+    },
+    {
+        "id": 1007,
+        "name": "每日经历神",
+        "desc": "",
+        "image": "day_by_day.jpg"
+    },
+    {
+        "id": 1008,
+        "name": "清晨甘露",
+        "desc": "",
+        "image": "dew_itunes.png"
+    },
+    {
+        "id": 1009,
+        "name": "竭诚为主",
+        "desc": "",
+        "image": "utmost_itunes.jpg"
+    },
+    {
+        "id": 2000,
+        "name": "00000 基要课程",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 2001,
+        "name": "10000 教义课程",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 2002,
+        "name": "20000 基督徒生活讲座",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 2003,
+        "name": "30000 圣经书卷",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 2004,
+        "name": "40000 圣经人物",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 2005,
+        "name": "50000 选修课程",
+        "desc": "",
+        "image": "album_category_6_art_marriage_family.png"
+    },
+    {
+        "id": 4000,
+        "name": "经文解析-旧约",
+        "desc": "",
+        "image": "bible_ot.png"
+    },
+    {
+        "id": 4001,
+        "name": "经文解析-新约",
+        "desc": "",
+        "image": "bible_nt.png"
+    },
+    {
+        "id": 4002,
+        "name": "神学讲座",
+        "desc": "",
+        "image": "bible_topics.png"
+    },
+    {
+        "id": 5000,
+        "name": "尔道自建 2014 年",
+        "desc": "",
+        "image": "abs_devotional_lts.png"
+    },
+    {
+        "id": 5001,
+        "name": "尔道自建 2015 年",
+        "desc": "",
+        "image": "abs_devotional_lts.png"
+    },
+    {
+        "id": 5002,
+        "name": "尔道自建 2016 年",
+        "desc": "",
+        "image": "abs_devotional_lts.png"
+    },
+    {
+        "id": 5003,
+        "name": "尔道自建 2017 年",
+        "desc": "",
+        "image": "abs_devotional_lts.png"
+    },
+    {
+        "id": 5004,
+        "name": "尔道自建 2018 年",
+        "desc": "",
+        "image": "abs_devotional_lts.png"
+    },
+    {
+        "id": 5005,
+        "name": "尔道自建 2019 年",
+        "desc": "",
+        "image": "abs_devotional_lts.png"
+    },
+    {
+        "id": 3000,
+        "name": "良院诗歌",
+        "desc": "",
+        "image": "otg_shige.png"
+    },
+    {
+        "id": 3001,
+        "name": "启航课程",
+        "desc": "",
+        "image": "otg_qihang.png"
+    },
+    {
+        "id": 3002,
+        "name": "本科文凭（先修）",
+        "desc": "",
+        "image": "otg_xianxiu.png"
+    },
+    {
+        "id": 3003,
+        "name": "本科文凭（必修）",
+        "desc": "",
+        "image": "otg_bixiu.png"
+    },
+    {
+        "id": 3004,
+        "name": "本科文凭（选修）",
+        "desc": "",
+        "image": "otg_xuanxiu.png"
+    },
+    {
+        "id": 3005,
+        "name": "进深文凭",
+        "desc": "",
+        "image": "otg_jinshen.png"
+    },
+    {
+        "id": 3006,
+        "name": "专题特辑",
+        "desc": "",
+        "image": "otg_teji.png"
+    },
+    {
+        "id": 3007,
+        "name": "精选重温",
+        "desc": "",
+        "image": "otg_jinxuan.png"
+    },
+    {
+        "id": 3008,
+        "name": "良院讲台",
+        "desc": "",
+        "image": "otg_jiangtai.png"
+    }
+]

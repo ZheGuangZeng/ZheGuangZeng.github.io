@@ -1,0 +1,530 @@
+[
+  {
+    "_id": 1,
+    "name": "创世记",
+    "abbr": "创",
+    "nameEn": "Genesis",
+    "abbrEn": "Gn",
+    "bookChapterCount": 50
+  },
+  {
+    "_id": 2,
+    "name": "出埃及记",
+    "abbr": "出",
+    "nameEn": "Exodus",
+    "abbrEn": "Ex",
+    "bookChapterCount": 40
+  },
+  {
+    "_id": 3,
+    "name": "利未记",
+    "abbr": "利",
+    "nameEn": "Leviticus",
+    "abbrEn": "Lv",
+    "bookChapterCount": 27
+  },
+  {
+    "_id": 4,
+    "name": "民数记",
+    "abbr": "民",
+    "nameEn": "Numbers",
+    "abbrEn": "Nb",
+    "bookChapterCount": 36
+  },
+  {
+    "_id": 5,
+    "name": "申命记",
+    "abbr": "申",
+    "nameEn": "Deuteronomy",
+    "abbrEn": "Dt",
+    "bookChapterCount": 34
+  },
+  {
+    "_id": 6,
+    "name": "约书亚记",
+    "abbr": "书",
+    "nameEn": "Joshua",
+    "abbrEn": "Jos",
+    "bookChapterCount": 24
+  },
+  {
+    "_id": 7,
+    "name": "士师记",
+    "abbr": "士",
+    "nameEn": "Judges",
+    "abbrEn": "Jg",
+    "bookChapterCount": 21
+  },
+  {
+    "_id": 8,
+    "name": "路得记",
+    "abbr": "得",
+    "nameEn": "Ruth",
+    "abbrEn": "Rt",
+    "bookChapterCount": 4
+  },
+  {
+    "_id": 9,
+    "name": "撒母耳记上",
+    "abbr": "撒上",
+    "nameEn": "1 Samuel",
+    "abbrEn": "1S",
+    "bookChapterCount": 31
+  },
+  {
+    "_id": 10,
+    "name": "撒母耳记下",
+    "abbr": "撒下",
+    "nameEn": "2 Samuel",
+    "abbrEn": "2S",
+    "bookChapterCount": 24
+  },
+  {
+    "_id": 11,
+    "name": "列王记上",
+    "abbr": "王上",
+    "nameEn": "1 Kings",
+    "abbrEn": "1K",
+    "bookChapterCount": 22
+  },
+  {
+    "_id": 12,
+    "name": "列王记下",
+    "abbr": "王下",
+    "nameEn": "2 Kings",
+    "abbrEn": "2K",
+    "bookChapterCount": 25
+  },
+  {
+    "_id": 13,
+    "name": "历代志上",
+    "abbr": "代上",
+    "nameEn": "1 Chronicles",
+    "abbrEn": "1Ch",
+    "bookChapterCount": 29
+  },
+  {
+    "_id": 14,
+    "name": "历代志下",
+    "abbr": "代下",
+    "nameEn": "2 Chronicles",
+    "abbrEn": "2Ch",
+    "bookChapterCount": 36
+  },
+  {
+    "_id": 15,
+    "name": "以斯拉记",
+    "abbr": "拉",
+    "nameEn": "Ezra",
+    "abbrEn": "Ezr",
+    "bookChapterCount": 10
+  },
+  {
+    "_id": 16,
+    "name": "尼希米记",
+    "abbr": "尼",
+    "nameEn": "Nehemiah",
+    "abbrEn": "Ne",
+    "bookChapterCount": 13
+  },
+  {
+    "_id": 17,
+    "name": "以斯帖记",
+    "abbr": "斯",
+    "nameEn": "Esther",
+    "abbrEn": "Est",
+    "bookChapterCount": 10
+  },
+  {
+    "_id": 18,
+    "name": "约伯记",
+    "abbr": "伯",
+    "nameEn": "Job",
+    "abbrEn": "Jb",
+    "bookChapterCount": 42
+  },
+  {
+    "_id": 19,
+    "name": "诗篇",
+    "abbr": "诗",
+    "nameEn": "Psalms",
+    "abbrEn": "Ps",
+    "bookChapterCount": 150
+  },
+  {
+    "_id": 20,
+    "name": "箴言",
+    "abbr": "箴",
+    "nameEn": "Proverbs",
+    "abbrEn": "Pr",
+    "bookChapterCount": 31
+  },
+  {
+    "_id": 21,
+    "name": "传道书",
+    "abbr": "传",
+    "nameEn": "Ecclesiastes",
+    "abbrEn": "Qo",
+    "bookChapterCount": 12
+  },
+  {
+    "_id": 22,
+    "name": "雅歌",
+    "abbr": "歌",
+    "nameEn": "Song of Songs",
+    "abbrEn": "Sg",
+    "bookChapterCount": 8
+  },
+  {
+    "_id": 23,
+    "name": "以赛亚书",
+    "abbr": "赛",
+    "nameEn": "Isaiah",
+    "abbrEn": "Ls",
+    "bookChapterCount": 66
+  },
+  {
+    "_id": 24,
+    "name": "耶利米书",
+    "abbr": "耶",
+    "nameEn": "Jeremiah",
+    "abbrEn": "Jr",
+    "bookChapterCount": 52
+  },
+  {
+    "_id": 25,
+    "name": "耶利米哀歌",
+    "abbr": "哀",
+    "nameEn": "Lamentations",
+    "abbrEn": "Lm",
+    "bookChapterCount": 5
+  },
+  {
+    "_id": 26,
+    "name": "以西结书",
+    "abbr": "结",
+    "nameEn": "Ezekie",
+    "abbrEn": "Ezk",
+    "bookChapterCount": 48
+  },
+  {
+    "_id": 27,
+    "name": "但以理书",
+    "abbr": "但",
+    "nameEn": "Daniel",
+    "abbrEn": "Dn",
+    "bookChapterCount": 12
+  },
+  {
+    "_id": 28,
+    "name": "何西阿书",
+    "abbr": "何",
+    "nameEn": "Hosea",
+    "abbrEn": "Ho",
+    "bookChapterCount": 14
+  },
+  {
+    "_id": 29,
+    "name": "约珥书",
+    "abbr": "珥",
+    "nameEn": "Joel",
+    "abbrEn": "Jl",
+    "bookChapterCount": 3
+  },
+  {
+    "_id": 30,
+    "name": "阿摩司书",
+    "abbr": "摩",
+    "nameEn": "Amos",
+    "abbrEn": "Am",
+    "bookChapterCount": 9
+  },
+  {
+    "_id": 31,
+    "name": "俄巴底亚书",
+    "abbr": "俄",
+    "nameEn": "Obadiah",
+    "abbrEn": "Ob",
+    "bookChapterCount": 1
+  },
+  {
+    "_id": 32,
+    "name": "约拿书",
+    "abbr": "拿",
+    "nameEn": "Jonah",
+    "abbrEn": "Jon",
+    "bookChapterCount": 4
+  },
+  {
+    "_id": 33,
+    "name": "弥迦书",
+    "abbr": "弥",
+    "nameEn": "Micah",
+    "abbrEn": "Mi",
+    "bookChapterCount": 7
+  },
+  {
+    "_id": 34,
+    "name": "那鸿书",
+    "abbr": "鸿",
+    "nameEn": "Nahum",
+    "abbrEn": "Na",
+    "bookChapterCount": 3
+  },
+  {
+    "_id": 35,
+    "name": "哈巴谷书",
+    "abbr": "哈",
+    "nameEn": "Habakkuk",
+    "abbrEn": "Hab",
+    "bookChapterCount": 3
+  },
+  {
+    "_id": 36,
+    "name": "西番雅书",
+    "abbr": "番",
+    "nameEn": "Zephaniah",
+    "abbrEn": "Zp",
+    "bookChapterCount": 3
+  },
+  {
+    "_id": 37,
+    "name": "哈该书",
+    "abbr": "该",
+    "nameEn": "Haggai",
+    "abbrEn": "Hg",
+    "bookChapterCount": 2
+  },
+  {
+    "_id": 38,
+    "name": "撒迦利亚书",
+    "abbr": "亚",
+    "nameEn": "Zechariah",
+    "abbrEn": "Zc",
+    "bookChapterCount": 14
+  },
+  {
+    "_id": 39,
+    "name": "玛拉基书",
+    "abbr": "玛",
+    "nameEn": "Malachi",
+    "abbrEn": "Mi",
+    "bookChapterCount": 4
+  },
+  {
+    "_id": 40,
+    "name": "马太福音",
+    "abbr": "太",
+    "nameEn": "Matthew",
+    "abbrEn": "Mt",
+    "bookChapterCount": 28
+  },
+  {
+    "_id": 41,
+    "name": "马可福音",
+    "abbr": "可",
+    "nameEn": "Mark",
+    "abbrEn": "Mk",
+    "bookChapterCount": 16
+  },
+  {
+    "_id": 42,
+    "name": "路加福音",
+    "abbr": "路",
+    "nameEn": "Luke",
+    "abbrEn": "Lk",
+    "bookChapterCount": 24
+  },
+  {
+    "_id": 43,
+    "name": "约翰福音",
+    "abbr": "约",
+    "nameEn": "John",
+    "abbrEn": "Jn",
+    "bookChapterCount": 21
+  },
+  {
+    "_id": 44,
+    "name": "使徒行传",
+    "abbr": "徒",
+    "nameEn": "Acts",
+    "abbrEn": "Ac",
+    "bookChapterCount": 28
+  },
+  {
+    "_id": 45,
+    "name": "罗马书",
+    "abbr": "罗",
+    "nameEn": "Romans",
+    "abbrEn": "Rm",
+    "bookChapterCount": 16
+  },
+  {
+    "_id": 46,
+    "name": "哥林多前书",
+    "abbr": "林前",
+    "nameEn": "1 Corinthians",
+    "abbrEn": "1Co",
+    "bookChapterCount": 16
+  },
+  {
+    "_id": 47,
+    "name": "哥林多后书",
+    "abbr": "林后",
+    "nameEn": "2 Corinthians",
+    "abbrEn": "2Co",
+    "bookChapterCount": 13
+  },
+  {
+    "_id": 48,
+    "name": "加拉太书",
+    "abbr": "加",
+    "nameEn": "Galatians",
+    "abbrEn": "Ga",
+    "bookChapterCount": 6
+  },
+  {
+    "_id": 49,
+    "name": "以弗所书",
+    "abbr": "弗",
+    "nameEn": "Ephesians",
+    "abbrEn": "Ep",
+    "bookChapterCount": 6
+  },
+  {
+    "_id": 50,
+    "name": "腓立比书",
+    "abbr": "腓",
+    "nameEn": "Philippians",
+    "abbrEn": "Ph",
+    "bookChapterCount": 4
+  },
+  {
+    "_id": 51,
+    "name": "歌罗西书",
+    "abbr": "西",
+    "nameEn": "Colossians",
+    "abbrEn": "Col",
+    "bookChapterCount": 4
+  },
+  {
+    "_id": 52,
+    "name": "帖撒罗尼迦前书",
+    "abbr": "帖前",
+    "nameEn": "1 Thessalonians",
+    "abbrEn": "1Th",
+    "bookChapterCount": 5
+  },
+  {
+    "_id": 53,
+    "name": "帖撒罗尼迦后书",
+    "abbr": "帖后",
+    "nameEn": "2 Thessalonians",
+    "abbrEn": "2Th",
+    "bookChapterCount": 3
+  },
+  {
+    "_id": 54,
+    "name": "提摩太前书",
+    "abbr": "提前",
+    "nameEn": "1 Timothy",
+    "abbrEn": "1Tm",
+    "bookChapterCount": 6
+  },
+  {
+    "_id": 55,
+    "name": "提摩太后书",
+    "abbr": "提后",
+    "nameEn": "2 Timothy",
+    "abbrEn": "2Tm",
+    "bookChapterCount": 4
+  },
+  {
+    "_id": 56,
+    "name": "提多书",
+    "abbr": "多",
+    "nameEn": "Titus",
+    "abbrEn": "Tt",
+    "bookChapterCount": 3
+  },
+  {
+    "_id": 57,
+    "name": "腓利门书",
+    "abbr": "门",
+    "nameEn": "Philemon",
+    "abbrEn": "Phm",
+    "bookChapterCount": 1
+  },
+  {
+    "_id": 58,
+    "name": "希伯来书",
+    "abbr": "来",
+    "nameEn": "Hebrews",
+    "abbrEn": "Heb",
+    "bookChapterCount": 13
+  },
+  {
+    "_id": 59,
+    "name": "雅各书",
+    "abbr": "雅",
+    "nameEn": "James",
+    "abbrEn": "Jm",
+    "bookChapterCount": 5
+  },
+  {
+    "_id": 60,
+    "name": "彼得前书",
+    "abbr": "彼前",
+    "nameEn": "1 Pete",
+    "abbrEn": "1P",
+    "bookChapterCount": 5
+  },
+  {
+    "_id": 61,
+    "name": "彼得后书",
+    "abbr": "彼后",
+    "nameEn": "2 Pete",
+    "abbrEn": "2P",
+    "bookChapterCount": 3
+  },
+  {
+    "_id": 62,
+    "name": "约翰一书",
+    "abbr": "约一",
+    "nameEn": "1 John",
+    "abbrEn": "1Jn",
+    "bookChapterCount": 5
+  },
+  {
+    "_id": 63,
+    "name": "约翰二书",
+    "abbr": "约二",
+    "nameEn": "2 John",
+    "abbrEn": "2Jn",
+    "bookChapterCount": 1
+  },
+  {
+    "_id": 64,
+    "name": "约翰三书",
+    "abbr": "约三",
+    "nameEn": "3 John",
+    "abbrEn": "3Jn",
+    "bookChapterCount": 1
+  },
+  {
+    "_id": 65,
+    "name": "犹大书",
+    "abbr": "犹",
+    "nameEn": "Jude",
+    "abbrEn": "Jude",
+    "bookChapterCount": 1
+  },
+  {
+    "_id": 66,
+    "name": "启示录",
+    "abbr": "启",
+    "nameEn": "Revelation",
+    "abbrEn": "Rv",
+    "bookChapterCount": 22
+  }
+]
