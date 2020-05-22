@@ -1040,6 +1040,41 @@
     },
     {
         "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "山上的经历系列",
+        "description": "",
+        "songCount": 20,
+        "albumCategoryId": 4002,
+        "shortName": "Mount",
+        "id": 10052
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "圣所建造系列",
+        "description": "",
+        "songCount": 12,
+        "albumCategoryId": 4002,
+        "shortName": "HlySanct",
+        "id": 10053
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "真理與異端的分辨",
+        "description": "",
+        "songCount": 16,
+        "albumCategoryId": 4002,
+        "shortName": "TrHeresy",
+        "id": 10054
+    }
+
+    ,
+    {
+        "stared": false,
         "duration": 500,
         "size": "2M",
         "name": "2014年1月林後",
@@ -1864,5 +1899,100 @@
         "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj201909.pdf",
         "shortName": "1909",
         "id": 20068
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "2M",
+        "name": "2019年10月约拿哈巴谷",
+        "description": "",
+        "songCount": 31,
+        "albumCategoryId": 5005,
+        "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj201910.pdf",
+        "shortName": "1910",
+        "id": 20069
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "2M",
+        "name": "2019年11月罗马书12-16",
+        "description": "",
+        "songCount": 30,
+        "albumCategoryId": 5005,
+        "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj201911.pdf",
+        "shortName": "1911",
+        "id": 20070
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "2M",
+        "name": "2019年12月以赛亚书40-55",
+        "description": "",
+        "songCount": 31,
+        "albumCategoryId": 5005,
+        "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj201912.pdf",
+        "shortName": "1912",
+        "id": 20071
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "2M",
+        "name": "2020年1月腓立比书",
+        "description": "",
+        "songCount": 31,
+        "albumCategoryId": 5006,
+        "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj202001.pdf",
+        "shortName": "2001",
+        "id": 20072
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "2M",
+        "name": "2020年2月民数记1-16",
+        "description": "",
+        "songCount": 29,
+        "albumCategoryId": 5006,
+        "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj202002.pdf",
+        "shortName": "2002",
+        "id": 20073
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "2M",
+        "name": "2020年3月帖前",
+        "description": "",
+        "songCount": 31,
+        "albumCategoryId": 5006,
+        "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj202003.pdf",
+        "shortName": "2003",
+        "id": 20074
+    }, {
+        "stared": false,
+        "duration": 500,
+        "size": "2M",
+        "name": "2020年4月阿摩司书",
+        "description": "",
+        "songCount": 30,
+        "albumCategoryId": 5006,
+        "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj202004.pdf",
+        "shortName": "2004",
+        "id": 20075
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "2M",
+        "name": "2020年5月以赛亚56-66",
+        "description": "",
+        "songCount": 31,
+        "albumCategoryId": 5006,
+        "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj202005.pdf",
+        "shortName": "2005",
+        "id": 20076
     }
 ]

@@ -1,0 +1,180 @@
+[{
+    "title": "日期",
+    "id": 1,
+    "albums": [{
+            "id": 6263,
+            "stared": false,
+            "duration": 860,
+            "size": "6.9M",
+            "name": "给力人生 2014年10-12月 ",
+            "description": "",
+            "songCount": 43,
+            "artistId": 34,
+            "artistName": "给力人生",
+            "albumCategoryId": 1,
+            "shortName": "sr_2014_winter"
+        }
+
+        ,
+
+        {
+            "id": 6264,
+            "stared": false,
+            "duration": 860,
+            "size": "6.9M",
+            "name": "给力人生 2015年01-03月 ",
+            "description": "",
+            "songCount": 64,
+            "artistId": 34,
+            "artistName": "给力人生",
+            "albumCategoryId": 1,
+            "shortName": "sr_2015_spring"
+        }
+
+        ,
+
+        {
+            "id": 6265,
+            "stared": false,
+            "duration": 860,
+            "size": "6.9M",
+            "name": "给力人生 2015年04-06月 ",
+            "description": "",
+            "songCount": 65,
+            "artistId": 34,
+            "artistName": "给力人生",
+            "albumCategoryId": 1,
+            "shortName": "sr_2015_summer"
+        }
+
+        ,
+
+        {
+            "id": 6266,
+            "stared": false,
+            "duration": 860,
+            "size": "6.9M",
+            "name": "给力人生 2015年07-09月 ",
+            "description": "",
+            "songCount": 66,
+            "artistId": 34,
+            "artistName": "给力人生",
+            "albumCategoryId": 1,
+            "shortName": "sr_2015_autumn"
+        }
+
+        ,
+
+        {
+            "id": 6267,
+            "stared": false,
+            "duration": 860,
+            "size": "6.9M",
+            "name": "给力人生 2015年10-12月 ",
+            "description": "",
+            "songCount": 66,
+            "artistId": 34,
+            "artistName": "给力人生",
+            "albumCategoryId": 1,
+            "shortName": "sr_2015_winter"
+        }
+
+        ,
+
+        {
+            "id": 6268,
+            "stared": false,
+            "duration": 860,
+            "size": "6.9M",
+            "name": "给力人生 2016年01-03月 ",
+            "description": "",
+            "songCount": 65,
+            "artistId": 34,
+            "artistName": "给力人生",
+            "albumCategoryId": 1,
+            "shortName": "sr_2016_spring"
+        }
+
+        ,
+
+        {
+            "id": 6269,
+            "stared": false,
+            "duration": 860,
+            "size": "6.9M",
+            "name": "给力人生 2016年04-06月 ",
+            "description": "",
+            "songCount": 65,
+            "artistId": 34,
+            "artistName": "给力人生",
+            "albumCategoryId": 1,
+            "shortName": "sr_2016_summer"
+        }
+
+
+        ,
+
+        {
+            "id": 6270,
+            "stared": false,
+            "duration": 860,
+            "size": "6.9M",
+            "name": "给力人生 2016年07-09月 ",
+            "description": "",
+            "songCount": 66,
+            "artistId": 34,
+            "artistName": "给力人生",
+            "albumCategoryId": 1,
+            "shortName": "sr_2016_autumn"
+        }
+
+        ,
+
+        {
+            "id": 6271,
+            "stared": false,
+            "duration": 860,
+            "size": "6.9M",
+            "name": "给力人生 2016年10-12月 ",
+            "description": "",
+            "songCount": 65,
+            "artistId": 34,
+            "artistName": "给力人生",
+            "albumCategoryId": 1,
+            "shortName": "sr_2016_winter"
+        }
+
+        ,
+
+        {
+            "id": 6272,
+            "stared": false,
+            "duration": 860,
+            "size": "6.9M",
+            "name": "给力人生 2017年01-03月 ",
+            "description": "",
+            "songCount": 65,
+            "artistId": 34,
+            "artistName": "给力人生",
+            "albumCategoryId": 1,
+            "shortName": "sr_2017_spring"
+        }
+
+
+        ,
+
+        {
+            "id": 6273,
+            "stared": false,
+            "duration": 860,
+            "size": "6.9M",
+            "name": "给力人生 2017年04-06月 ",
+            "description": "",
+            "songCount": 65,
+            "artistId": 34,
+            "artistName": "给力人生",
+            "albumCategoryId": 1,
+            "shortName": "sr_2017_summer"
+        }
+    ]
+}]

@@ -1,0 +1,192 @@
+[{
+    "title": "日期",
+    "id": 1,
+    "albums": [{
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2013年 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs2013",
+            "id": 62000
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2014年01-03月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs201401",
+            "id": 62001
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2014年04-06月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs201402",
+            "id": 62002
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2014年07-09月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs201403",
+            "id": 62003
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2014年10-12月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs201404",
+            "id": 62004
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2015年01-03月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs201501",
+            "id": 62005
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2015年04-06月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs201502",
+            "id": 62006
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2015年07-09月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs201503",
+            "id": 62007
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2015年10-12月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs201504",
+            "id": 62008
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2016年01-03月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs201601",
+            "id": 62009
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2016年04-06月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs201602",
+            "id": 62010
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2016年07-09月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs201603",
+            "id": 62011
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2016年10-12月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6022,
+            "shortName": "bs201604",
+            "id": 62012
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2017年 ",
+            "description": "",
+            "songCount": 105,
+            "albumCategoryId": 6022,
+            "shortName": "bs2017",
+            "id": 62013
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2018年 ",
+            "description": "",
+            "songCount": 105,
+            "albumCategoryId": 6022,
+            "shortName": "bs2018",
+            "id": 62014
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2019年 ",
+            "description": "",
+            "songCount": 105,
+            "albumCategoryId": 6022,
+            "shortName": "bs2019",
+            "id": 62015
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "圣言盛宴 2020年 ",
+            "description": "",
+            "songCount": 105,
+            "albumCategoryId": 6022,
+            "shortName": "bs2020",
+            "id": 62016
+        }
+    ]
+}]

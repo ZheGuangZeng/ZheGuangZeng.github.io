@@ -1,0 +1,104 @@
+[{
+    "title": "日期",
+    "id": 1,
+    "albums": [{
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的福音 2011年 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6020,
+            "shortName": "gl2011",
+            "id": 60000
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的福音 2012年 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6020,
+            "shortName": "gl2012",
+            "id": 60001
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的福音 2013年 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6020,
+            "shortName": "gl2013",
+            "id": 60002
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的福音 2014年 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6020,
+            "shortName": "gl2014",
+            "id": 60003
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的福音 2015年 ",
+            "description": "",
+            "songCount": 60,
+            "albumCategoryId": 6020,
+            "shortName": "gl2015",
+            "id": 60004
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的福音 2016年 ",
+            "description": "",
+            "songCount": 65,
+            "albumCategoryId": 6020,
+            "shortName": "gl2016",
+            "id": 60005
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的福音 2017年 ",
+            "description": "",
+            "songCount": 63,
+            "albumCategoryId": 6020,
+            "shortName": "gl2017",
+            "id": 60006
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的福音 2018年 ",
+            "description": "",
+            "songCount": 65,
+            "albumCategoryId": 6020,
+            "shortName": "gl2018",
+            "id": 60007
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的福音 2019年 ",
+            "description": "",
+            "songCount": 65,
+            "albumCategoryId": 6020,
+            "shortName": "gl2019",
+            "id": 60008
+        }
+    ]
+}]

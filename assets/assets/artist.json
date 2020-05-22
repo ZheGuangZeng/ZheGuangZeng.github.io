@@ -14,7 +14,7 @@
         "artistCategoryId": 1,
         "shortName": "hp",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=67&tkey=5e9943ec7fb601b6",
-        "sort": 2
+        "sort": 1
     },
     {
         "stared": false,
@@ -32,7 +32,7 @@
         "artistCategoryId": 1,
         "shortName": "sa",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=13&tkey=78846599f2710caf",
-        "sort": 9
+        "sort": 13
     },
     {
         "stared": false,
@@ -50,7 +50,7 @@
         "artistCategoryId": 1,
         "shortName": "mc",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=42&tkey=1d4e949d2bb763b1",
-        "sort": 6
+        "sort": 10
     },
     {
         "stared": false,
@@ -61,14 +61,14 @@
         "albumCount": 0,
         "name": "天使夜未眠",
         "oneword": "陪你到入眠",
-        "description": "无论你正行在人生的高山低谷，或是处在茫然的十字路口，\n《天使夜未眠》渴望陪伴你，一起认识上帝永恒不变的慈爱，\n使你重新找到人生方向。\n\n栏目：\n星期日　真爱好男好女：建立正确的爱情婚姻价值观\n星期一　Easy谈生活：浅谈各类生活话题；心灵小栈：分享短文\n星期二　幸福A计划：分享好书\n星期三　小故事大启发：故事分享；空中留言板：年轻人分享博客\n星期四　回收人生ING：见证分享\n星期五　信仰Q&A：从圣经里寻得答案\n星期六　你我他的故事：耶稣生平事迹\n\n电邮\t：\ttianshi@liangyou.net\n短信\t：\t13229966122（注明：天使）",
+        "description": "无论你正行在人生的高山低谷，或是处在茫然的十字路口，\n《天使夜未眠》渴望陪伴你，一起认识上帝永恒不变的慈爱，\n使你重新找到人生方向。\n\n栏目：\n星期日　真爱好男好女：建立正确的爱情婚姻价值观\n星期一　Easy谈生活：浅谈生活各类话题\n星期二　幸福A计划：分享好书\n星期三　睡前读首歌：分享诗歌\n星期四　回收人生ING：见证分享\n星期五　信仰Q&A：从圣经里寻得答案\n星期六　你我祂的故事：耶稣生平事迹\n\n电邮 ： tianshi@liangyou.net\n短信 ： 13229966122（注明：天使）",
         "songCount": 100,
         "artMedium": "artist_3_art_medium.png",
         "artLarge": "",
         "artistCategoryId": 1,
         "shortName": "ka",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=53&tkey=be0e8dbf063fd9ad",
-        "sort": 8
+        "sort": 12
     },
     {
         "stared": false,
@@ -86,7 +86,7 @@
         "artistCategoryId": 1,
         "shortName": "tm",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=45&tkey=451672ccc2f14e79",
-        "sort": 13
+        "sort": 17
     },
     {
         "stared": false,
@@ -97,14 +97,14 @@
         "albumCount": 0,
         "name": "微播出炉",
         "oneword": "侃热闻，谈生活",
-        "description": "轻松畅谈社会动态，微博热搜，生活逸事，每一集讨论不同的主题，每一集为你发掘不同的话题！\n欢迎网友评论，邀请嘉宾分享，我说，你聊，大家谈！\n微播热点，新鲜出炉！15分钟有声帖子，在线播放全国热话。\n\n栏目：\n星期一　圣经‧很凡人（苏小燕与你从圣经，看人性）\n星期二　奔跑吧！秦贤（只要跑，不用说）\n星期三　跟峰寻宝（跟万峰到世界各地寻找基督教的宝藏）\n星期四　朋客养生（于欣甜和小鲜肉蔡大夫讨论90后养生秘方）\n星期五　关于异次元の那些事（刘芳与你进入动画电影的世界）\n\n电邮\t：\tchulu@liangyou.net\n短信\t：\t13229966122（注明：出炉）",
+        "description": "轻松畅谈社会动态，微博热搜，生活逸事，每一集讨论不同的主题，每一集为你发掘不同的话题！\n欢迎网友评论，邀请嘉宾分享，我说，你聊，大家谈！\n微播热点，新鲜出炉！15分钟有声帖子，在线播放全国热话。\n\n栏目：\n星期一　信仰奇葩说\n星期二　微播麦乐迪\n星期三　读书‧论道\n星期四　大叔萝莉敲敲爱\n星期五　当古人遇上故人\n\n电邮 ： chulu@liangyou.net\n短信 ： 13229966122（注明：出炉）",
         "songCount": 40,
         "artMedium": "artist_6_art_medium.png",
         "artLarge": "artist_6_art_large.jpg",
         "artistCategoryId": 1,
         "shortName": "fc",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=35&tkey=b55bb0dfe303f5be",
-        "sort": 3
+        "sort": 5
     },
     {
         "stared": false,
@@ -122,7 +122,8 @@
         "artistCategoryId": 1,
         "shortName": "gv",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=37&tkey=db7dc0d9253a9589",
-        "sort": 10
+        "sort": 15,
+        "past": true
     },
     {
         "stared": false,
@@ -133,14 +134,15 @@
         "albumCount": 0,
         "name": "绝妙当家",
         "oneword": "发现生命绝妙美好",
-        "description": "分享生命的绝妙，认识上帝的创造，\n知道自己的独特，欣赏他人的美好。\n\n栏目：\n星期日　祝你健康\n星期一　绝妙一周乐\n星期二　创译英文同乐会\n星期三　绝妙各行业\n星期四　绝妙热话题\n星期五　绝妙小剧场\n星期六　动绝妙\n\n>>> 节目资源\n\n电邮\t：\tjuemiao@liangyou.net\n短信\t：\t13229966122（注明：绝妙）",
+        "description": "分享生命的绝妙，认识上帝的创造，\n知道自己的独特，欣赏他人的美好。\n\n栏目：\n星期日　祝你健康\n星期一　绝妙一周乐\n星期二　创译英文同乐会\n星期三　绝妙各行业\n星期四　绝妙热话题\n星期五　绝妙小剧场\n星期六　动绝妙\n\n电邮 ： juemiao@liangyou.net\n短信 ： 13229966122（注明：绝妙）",
         "songCount": 40,
         "artMedium": "artist_7_art_medium.png",
         "artLarge": "artist_7_art_large.jpg",
         "artistCategoryId": 1,
         "shortName": "yu",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=48&tkey=39d46e3469e86ee6",
-        "sort": 1
+        "sort": 14,
+        "past": true
     },
     {
         "stared": false,
@@ -157,7 +159,7 @@
         "artLarge": "artist_9_art_large.jpg",
         "artistCategoryId": 1,
         "shortName": "zz",
-        "sort": 11
+        "sort": 16
     },
     {
         "stared": false,
@@ -175,7 +177,8 @@
         "artistCategoryId": 1,
         "shortName": "bc",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=23&tkey=5d87327f925ad50e",
-        "sort": 5
+        "sort": 2,
+        "past": true
     },
     {
         "stared": false,
@@ -193,7 +196,7 @@
         "artistCategoryId": 1,
         "shortName": "rt",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=58&tkey=755d58a2b9894e57",
-        "sort": 7
+        "sort": 11
     },
     {
         "stared": false,
@@ -204,14 +207,14 @@
         "albumCount": 0,
         "name": "i-Radio爱广播",
         "oneword": "良友电台资讯导航",
-        "description": "良友电台资讯导航节目，为你带出电台最新消息，最动听节目推介，也替电台寻找听电台、爱电台的知音人，分享生命的故事。台长也会定期出现，分享电台最新的政策，也与听众分享他的个人心声，勉励事奉。\n总之，爱广播属于你和我。我们是好夥伴！\n\n栏目：\n星期日　节目推介、广播梦工场\n星期一　节目推介、迎风展翅\n星期二　节目推介、我们的推荐人\n星期三　节目推介、赵群心语\n星期四　节目推介、我们的推荐人\n星期五　节目推介、夥．热话题／喜乐树导航\n星期六　节目推介、广播梦工场\n\n>>> 节目资源\n\n电邮\t：\tiradio@liangyou.net\n短信\t：\t13229966122（注明：爱广播）",
+        "description": "良友电台资讯导航节目，为你带出电台最新消息，最动听节目推介，也替电台寻找听电台、爱电台的知音人，分享生命的故事。台长会定期出现，分享电台最新的政策，与听众分享个人心声，勉励事奉。\n总之，爱广播属于你和我！\n\n栏目：\n星期日　节目推介／电台消息、赵群心语／良友会客厅、非听Book\n星期六　节目推介／电台消息、良粉俱乐部、非听Book\n\n电邮 ： iradio@liangyou.net\n短信 ： 13229966122（注明：爱广播）",
         "songCount": 40,
         "artMedium": "artist_12_art_medium.png",
         "artLarge": "artist_12_art_large.jpg",
         "artistCategoryId": 1,
         "shortName": "ir",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=40&tkey=0a03cfb268e04305",
-        "sort": 4
+        "sort": 8
     },
     {
         "stared": false,
@@ -221,14 +224,15 @@
         "id": 1001,
         "albumCount": 0,
         "name": "认识你真好",
-        "oneword": "认识你真好",
+        "oneword": "有诗歌，有故事，还有不打瞌睡的上帝",
         "description": "优美的旋律，生动的采访，感人的见证，深刻的分享…\n洛杉矶地区AM900，周一 ~ 周日4-5 PM。\n「认识你真好」节目，让你的生命不一样！\n\n电邮：vofam900@gmail.com",
         "songCount": 0,
         "artMedium": "artist_101_art_medium.png",
         "artLarge": "",
         "artistCategoryId": 1,
         "shortName": "vof",
-        "sort": 0
+        "sort": 0,
+        "past": true
     },
     {
         "stared": false,
@@ -246,7 +250,7 @@
         "artLarge": "",
         "artistCategoryId": 1,
         "shortName": "bk",
-        "sort": 12
+        "sort": 18
     },
     {
         "stared": false,
@@ -256,15 +260,16 @@
         "id": 14,
         "albumCount": 0,
         "name": "i关怀心磁场",
-        "oneword": "身心灵关怀",
-        "description": "分享真挚关怀，追求身心灵健康；\n在迷茫疑惑中寻求真理，在祝福与盼望中，我们从新出发！\n\n栏目：\n星期一　心磁场大平台\n星期二　曼曼成长记\n星期三　太太空间\n星期四　黄昏下午茶\n星期五　我想对你说\n\n节目网站（桌面版）：www.729lyprog.net/ixin\n节目网站（手机版）：www.729lyprog.net/m/ixin\n\n电邮\t：\tixin@liangyou.net\n短信\t：\t13229966122（注明：i心）",
+        "oneword": "关注成长、治愈关系",
+        "description": "透过亲子、婚恋等各种人际关系故事，发现关系中的问题；学习爱的技巧，提升爱的能力，建立爱的关系。\n\n电邮 ： ixin@liangyou.net\n短信 ： 13229966122（注明：i心）",
         "songCount": 40,
         "artMedium": "artist_14_art_medium.png",
         "artLarge": "artist_14_art_large.jpg",
         "artistCategoryId": 2,
         "shortName": "im",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=29&tkey=6fb5c74e649ef79c",
-        "sort": 1
+        "sort": 1,
+        "past": true
     },
     {
         "stared": false,
@@ -275,14 +280,15 @@
         "albumCount": 0,
         "name": "空中辅导",
         "oneword": "婚姻，家庭，辅导",
-        "description": "细心聆听你的苦闷心声，真诚关怀你的内心感受，\n借着圣经和祷告给你回应，为你指引成长的途径。\n\n栏目：\n星期一　乐哉家庭、男人研究所、热线见证\n星期二　热线辅导（主题：精神健康，嘉宾：廖医生／主题：婚姻家庭）（现场直播）\n星期三　热线辅导（主题：信仰疑难、教会、圣经问题）\n星期四　热线辅导（主题：婚姻家庭，嘉宾：许老师）（现场直播）\n星期五　热线辅导\n\n节目网站（桌面版）：www.729lyprog.net/fudao\n节目网站（手机版）：www.729lyprog.net/m/fudao\n\n电邮\t：\tfudao@liangyou.net\n短信\t：\t13229966022（注明：辅导）\n热线\t：\t13229966322（直播：星期二、四 19:00-20:00；录播：星期三 09:30-12:00）",
+        "description": "细心聆听你的苦闷心声，真诚关怀你的内心感受，\n借着圣经和祷告给你回应，为你指引成长的途径。\n\n栏目：\n星期一　乐哉家庭、男人研究所、热线见证\n星期二　热线辅导（主题：精神健康，嘉宾：廖医生／主题：婚姻家庭）（现场直播）\n星期三　热线辅导（主题：信仰疑难、教会、圣经问题）\n星期四　热线辅导（主题：婚姻家庭，嘉宾：许老师）（现场直播）\n星期五　热线辅导\n\n电邮 ： fudao@liangyou.net\n短信 ： 13229966022（注明：辅导）\n热线 ： 13229966322（直播：星期二、四 19:00-20:00；录播：星期三 09:30-12:00）",
         "songCount": 40,
         "artMedium": "artist_15_art_medium.png",
         "artLarge": "artist_15_art_large.jpg",
         "artistCategoryId": 2,
         "shortName": "cc",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=18&tkey=04691efb6f30e90f",
-        "sort": 2
+        "sort": 2,
+        "past": true
     },
     {
         "stared": false,
@@ -293,14 +299,14 @@
         "albumCount": 0,
         "name": "无限飞行号",
         "oneword": "突破身心残疾",
-        "description": "《无限飞行号》，与你同飞行！\n\n栏目：\n星期日　广播剧；信仰活用，走进生活\n星期一　机长导航；罗文辉读圣经；机长广播\n星期二　飞行号医馆：许医师热线剪辑\n星期三　飞行号医馆：健康专题\n星期四　关怀热线：星期五热线剪辑\n星期五　无限点歌单：欢迎听众点播歌曲；见证分享\n星期六　周末留言板：回复留言、短信﹑为你祷告﹑暖闻分享\n\n节目网站（桌面版）：www.729lyprog.net/wuxian\n节目网站（手机版）：www.729lyprog.net/m/wuxian\n\n电邮\t：\twuxian@liangyou.net\n短信\t：\t13229966022（注明：无限）\n热线\t：\t13229966322（问诊：每月逢第一个及第三个星期二 10:00-11:30）",
+        "description": "《无限飞行号》，与你同飞行！\n\n栏目：\n星期日　广播剧；信仰活用，走进生活\n星期一　机长导航；罗文辉读圣经；机长广播\n星期二　飞行号医馆：黎医师在线，健康指南\n星期三　走进视障人士的生活，了解墨镜背后的世界\n星期四　关怀热线：透过电话走访听众\n星期五　无限点歌单：欢迎听众点播歌曲；见证分享\n星期六　周末留言板：回复留言、短信﹑为你祷告﹑暖闻分享\n\n电邮 ： wuxian@liangyou.net\n短信 ： 13229966022（注明：无限）\n热线 ： 13229966322（问诊：每月逢第一个及第三个星期二 10:00-11:30；关怀热线：逢星期五10:00-11:00）",
         "songCount": 40,
         "artMedium": "artist_16_art_medium.png",
         "artLarge": "artist_16_art_large.jpg",
         "artistCategoryId": 2,
         "shortName": "ib",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=20&tkey=d1f0fafa03c42678",
-        "sort": 3
+        "sort": 0
     },
     {
         "stared": false,
@@ -364,14 +370,15 @@
         "albumCount": 0,
         "name": "恋爱季节",
         "oneword": "真爱要等待",
-        "description": "有人说：“最完美的爱情在小说里，最完美的婚姻在梦境里！”难道希望拥有完美的恋爱、婚姻，只是一个梦想吗？\n请立刻收听《恋爱季节》，梦想就要成真！\n欢迎孤男寡女、一男一女、已婚男女、不分男女，一起沉浸在《恋爱季节》！\n\n栏目：\n星期一至四　婚恋专题探讨\n星期一五　　情爱诊疗室，婚姻谘询站\n\n节目网站（桌面版）：www.729lyprog.net/lianai\n节目网站（手机版）：www.729lyprog.net/m/lianai\n\n电邮\t：\tlianai@liangyou.net",
+        "description": "有人说：“最完美的爱情在小说里，最完美的婚姻在梦境里！”难道希望拥有完美的恋爱、婚姻，只是一个梦想吗？\n请立刻收听《恋爱季节》，梦想就要成真！\n欢迎孤男寡女、一男一女、已婚男女、不分男女，一起沉浸在《恋爱季节》！\n\n栏目：\n星期一至四　婚恋专题探讨\n星期一五　　情爱诊疗室，婚姻谘询站\n\n电邮 ： lianai@liangyou.net",
         "songCount": 40,
         "artMedium": "artist_19_art_medium.png",
         "artLarge": "artist_19_art_large.jpg",
         "artistCategoryId": 3,
         "shortName": "se",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=26&tkey=9da7fe907c7201a8",
-        "sort": 1
+        "sort": 1,
+        "past": true
     },
     {
         "stared": false,
@@ -389,7 +396,8 @@
         "artistCategoryId": 3,
         "shortName": "bf",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=22&tkey=fd597fd4bc26c361",
-        "sort": 6
+        "sort": 6,
+        "past": true
     },
     {
         "stared": false,
@@ -407,7 +415,8 @@
         "artistCategoryId": 3,
         "shortName": "up",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=27&tkey=88f257439c90381f",
-        "sort": 3
+        "sort": 3,
+        "past": true
     },
     {
         "stared": false,
@@ -418,14 +427,15 @@
         "albumCount": 0,
         "name": "欢乐卡恰碰",
         "oneword": "欢乐童趣，精彩无限",
-        "description": "小小扭蛋，大大欢笑，轻轻转动的“卡恰”声，“碰”出许多欢乐与惊喜！\n还等什么呀？快打开扭蛋，和我们一起唱歌、听故事、培养好品格！\nLet’s GO ~~~！\n\n栏目：\n星期一　幸福大转盘：好听的故事都在这\n星期二　发明家的异想天空：探索生活中各种物品的发明故事\n星期三　方舟探险趣：认识各种动物的绝妙之处\n星期四　优格姑姑村：跟着小菇菇学生活品格\n星期五　卡恰碰侦探事务所：立心社长带你探案去\n不定期栏目：\n金句扭蛋机、欢乐学美语、立心姊姊的成语小教室\n\n节目网站（桌面版）：www.729lyprog.net/huanle\n节目网站（手机版）：www.729lyprog.net/m/huanle\n\n电邮\t：\thuanle@liangyou.net\n短信\t：\t13229966122（注明：欢乐）",
+        "description": "小小扭蛋，大大欢笑，轻轻转动的“卡恰”声，“碰”出许多欢乐与惊喜！\n还等什么呀？快打开扭蛋，和我们一起唱歌、听故事、培养好品格！\nLet’s GO ~~~！\n\n栏目：\n星期一　树墩子学校：儿童品格广播剧\n星期二　发明家的异想天空：探索生活中各种物品的发明故事\n星期三　幸福大转盘：绘本故事\n星期四　方舟探险趣：认识各种动物的绝妙之处\n星期五　卡恰碰侦探事务所：立心社长带你探案去\n\n电邮 ： huanle@liangyou.net\n短信 ： 13229966122（注明：欢乐）",
         "songCount": 100,
         "artMedium": "artist_2_art_medium.png",
         "artartLarge": "artist_2_art_large.jpg",
         "artistCategoryId": 3,
         "shortName": "hg",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=39&tkey=b6f2ef2e3d18ac57",
-        "sort": 4
+        "sort": 4,
+        "past": true
     },
     {
         "stared": false,
@@ -435,15 +445,15 @@
         "id": 62,
         "albumCount": 0,
         "name": "这个生命棒棒哒",
-        "oneword": "云彩般的生命见证",
-        "description": "生命中沉重的包袱，竟然会变为轻省；\n原来迷茫的路，一下子成为踏实；\n灰暗转为光明，忧愁变为笑脸；\n这一切，全因为他们的生命中遇见了那位有慈爱怜悯的拯救的神！\n\n李诺、蓝冰燕，与你一起分享如同云彩般的见证，\n让我们一起分享，同来见证，齐声欢呼说：“这个生命，棒棒哒！”\n\n栏目：\n星期一\n他曾改变世界：平淡真挚、激情耀眼是人生的不同呈现，但有意义的人生是我们都向往的。让我们一同透过他人的美好生命经历，彼此鼓励，向着棒棒哒生命，出发！\n\n星期二、三\n人生故事，故事人生：活着就是神迹，就是见证。生命中沉重的包袱，如何变得轻省？原来迷茫的路，如何变得踏实？灰暗如何转为光明，忧愁如何变成喜乐？哀哭如何变为欢笑？来听听他们的生命故事，也期待你来分享你的生命经历。\n\n星期四\n友伴同行，同行有伴：生命中总有那么一些个人或群体的陪伴，温暖地伴随着我们走过高山低谷。而祂，更是在我们看得见看不见的时候，都一直相伴同行。为你讲述生命中的那些有祂相伴的故事。\n\n星期五\n一同奔向棒棒哒：在面对挫折、挣扎、忧伤、苦闷时，我们与你相伴，只为和你一起更新生命，并一同迎接更丰盛的明天。\n\n电邮\t：\tbangbangda@liangyou.net\n短信\t：\t13229966122（注明：棒棒哒）",
+        "oneword": "话题、访问、心情、故事",
+        "description": "一周七天，透过话题、访问、心情手记、人生故事，展现丰满、有趣、棒棒哒的生命！\n\n栏目：\n星期日　（主持：各主持及受访嘉宾）\n做什么好：透过访问，了解各行各业，让工作可以做得棒棒哒！\n\n星期一　（主持：李诺、蓝冰燕、嘉宾主持）\n擦亮心窗：谈论心灵话题，擦亮心灵窗户\n快乐星期一：探讨转化快乐人生、快乐工作的秘诀。\n\n星期二　（主持：李诺、蓝冰燕、梁天路）\n擦亮心窗：谈论心灵话题，擦亮心灵窗户\n心情手记：主持心情手记，记录生活情感\n\n星期三　（主持：李诺、蓝冰燕、唐漫）\n擦亮心窗：谈论心灵话题，擦亮心灵窗户\n心情手记：主持心情手记，记录生活情感\n\n星期四　（主持：唐漫、李诺、蓝冰燕、文乐）\n擦亮心窗：谈论心灵话题，擦亮心灵窗户\n以歌寄意：文乐用诗歌回应一周话题\n\n星期五　（主持：李诺、蓝冰燕）\n人生故事，故事人生：从别人的生命中感受棒棒哒生命的魅力，学习棒棒哒生命的智慧\n\n星期六　（主持：李诺、梁天路、文乐、刘辉）\n喔，太男了：男人们来聊聊女人们感兴趣、又不会常在女人面前谈论的话题\n\n电邮 ： bangbangda@liangyou.net\n短信 ： 13229966122（注明：棒棒哒）",
         "songCount": 40,
         "artMedium": "artist_62_art_medium.png",
         "artLarge": "",
         "artistCategoryId": 5,
         "shortName": "wf",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=15&tkey=7ca5f3376b5ce0cc",
-        "sort": 10
+        "sort": 1
     },
     {
         "stared": false,
@@ -461,7 +471,7 @@
         "artistCategoryId": 5,
         "shortName": "ug",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=14&tkey=fc55d8d6782e931f",
-        "sort": 11
+        "sort": 12
     },
     {
         "stared": false,
@@ -472,7 +482,7 @@
         "albumCount": 0,
         "name": "献上今天",
         "oneword": "为神赐的今天加油",
-        "description": "每一天都是神所赐的好日子，在其中可以享受神的恩典，经历神的作为。\n以轻松、活泼的节奏，与听众一起关心及回应当日社会消息、民生动态，\n一起灵修、祷告，背经，学习圣经真理，努力过好每一天，靠主恩典活在当下。\n\n栏目：\n星期一至四　认识教会\n星期五　　　健康咨询站\n\n全年灵修　　每日天粮\n全年背金句　分周概览诗篇，每周背诵其中一节经文\n\n>>> 我爱背金句\n\n>>> 每日天粮\n\n电邮\t：\txianshang@liangyou.net\n短信\t：\t13229966022（注明：献上）\n热线\t：\t13229966322（星期五 07:30-08:30）",
+        "description": "每一天都是神所赐的好日子，在其中可以享受神的恩典，经历神的作为。\n以轻松、活泼的节奏，与听众一起关心及回应当日社会消息、民生动态，\n一起灵修、祷告，背经，学习圣经真理，努力过好每一天，靠主恩典活在当下。\n\n栏目：\n星期一至四　认识教会\n星期五　　　健康咨询站\n\n全年灵修　　每日天粮\n全年背金句　分周概览诗篇，每周背诵其中一节经文\n\n电邮 ： xianshang@liangyou.net\n短信 ： 13229966022（注明：献上）\n热线 ： 13229966322（星期五 07:30-08:30）",
         "songCount": 40,
         "artMedium": "artist_24_art_medium.png",
         "artLarge": "",
@@ -497,7 +507,8 @@
         "artistCategoryId": 5,
         "shortName": "sg",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=44&tkey=dafd3941adca5b6b",
-        "sort": 2
+        "sort": 2,
+        "past": true
     },
     {
         "stared": false,
@@ -525,8 +536,8 @@
         "id": 26,
         "albumCount": 0,
         "name": "施恩座前",
-        "oneword": "以祷告实践信仰",
-        "description": "本节目以希伯来书4:16为主题，通过介绍有关祷告的圣经真理、分享信徒祷告的见证、实际祷告操练与代祷等，邀请听众一起以基督为我们的大祭司，一同来认识祷告、学习祷告、建立祷告生活，并一起为自己、为多人祷告、代求、祝谢，以祷告实践信仰，参与神的工作。\n\n栏目：\n星期日　　　有主在我心；施恩祷告会\n星期一至五　有主在我心；代祷时刻\n星期六　　　听众祷告见证；代祷时刻\n\n电邮\t：\tshien@liangyou.net\n短信\t：\t13229966122（注明：施恩）",
+        "oneword": "空中祈祷会",
+        "description": "这是一个让人学习祈祷、明白我们信徒都有祷告权柄的节目。\n主持透过热线互动，为听众在婚姻家庭、精神健康、教会、社会等层面上多方代祷。\n盼望《施恩座前》成为众人的祷告会，让我们人人祷告！\n\n栏目：\n星期一、三、五　诗篇祷读、公祷、为万人代祷、祷告经文选读\n星期二、四　　　热线、祷告经文选读\n\n电邮 ： shien@liangyou.net\n短信 ： 13229966022（注明：施恩）",
         "songCount": 40,
         "artMedium": "artist_26_art_medium.png",
         "artLarge": "artist_26_art_large.jpg",
@@ -568,7 +579,8 @@
         "artLarge": "",
         "artistCategoryId": 5,
         "shortName": "bm",
-        "sort": 14
+        "sort": 15,
+        "past": true
     },
     {
         "stared": false,
@@ -586,7 +598,8 @@
         "artistCategoryId": 5,
         "shortName": "gn",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=28&tkey=5afe4e889dae64c9",
-        "sort": 1
+        "sort": 11,
+        "past": true
     },
     {
         "stared": false,
@@ -597,14 +610,15 @@
         "albumCount": 0,
         "name": "拥抱每一天",
         "oneword": "用生活诠释信仰",
-        "description": "生命能够成长，因为我们愿意放下昨天；生命那么美好，因为我们依然拥有今天；生命充满希望，因为我们可以计划明天！\n每一天，神都在我们和我们的需要之间，等着帮助我们；从他手中，你能得到适时的帮助。\n愿神借由《拥抱每一天》，使你每一天与他相遇，让你更认识他，并领受他所要赐给你的恩典！\n让咱们“用爱拥抱每一天，用心感动每个人！”在生活各个层面，竭力追求平衡、从容、无私、付出、爱神爱人、荣神益人的人生！\n\n栏目：\n星期日　神的叮咛我最爱\n星期一　寻找生命的真光\n星期二　绽放生命的光芒\n星期三　诗情细语话人生\n星期四　说个故事给你听\n星期五　亮丽人生不是梦\n星期六　用智慧演绎人生\n\n节目网站（桌面版）：www.729lyprog.net/yongbao\n节目网站（手机版）：www.729lyprog.net/m/yongbao\n\n电邮\t：\tyongbao@liangyou.net",
+        "description": "生命能够成长，因为我们愿意放下昨天；生命那么美好，因为我们依然拥有今天；生命充满希望，因为我们可以计划明天！\n每一天，神都在我们和我们的需要之间，等着帮助我们；从他手中，你能得到适时的帮助。\n愿神借由《拥抱每一天》，使你每一天与他相遇，让你更认识他，并领受他所要赐给你的恩典！\n让咱们“用爱拥抱每一天，用心感动每个人！”在生活各个层面，竭力追求平衡、从容、无私、付出、爱神爱人、荣神益人的人生！\n\n栏目：\n星期日　神的叮咛我最爱\n星期一　寻找生命的真光\n星期二　绽放生命的光芒\n星期三　诗情细语话人生\n星期四　说个故事给你听\n星期五　亮丽人生不是梦\n星期六　用智慧演绎人生\n\n电邮 ： yongbao@liangyou.net",
         "songCount": 40,
         "artMedium": "artist_29_art_medium.png",
         "artLarge": "artist_29_art_large.jpg",
         "artistCategoryId": 5,
         "shortName": "ee",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=21&tkey=592c51aa0b1b3cbb",
-        "sort": 5
+        "sort": 5,
+        "past": true
     },
     {
         "stared": false,
@@ -615,14 +629,15 @@
         "albumCount": 0,
         "name": "旷野吗哪",
         "oneword": "提供每日灵粮",
-        "description": "节目主持与你分享灵修材料，以亲切并深入关怀生活层面的讲解，为你传达明确清晰的圣经信息，\n帮助你应用于信仰生活上，好叫信徒珍爱灵修，灵命长进！\n\n节目网站（桌面版）：www.729lyprog.net/mana\n节目网站（手机版）：www.729lyprog.net/m/mana\n\n>>> 灵修信息\n\n电邮\t：\tmana@liangyou.net\n短信\t：\t13229966122（注明：吗哪）",
+        "description": "节目主持与你分享灵修材料，以亲切并深入关怀生活层面的讲解，为你传达明确清晰的圣经信息，\n帮助你应用于信仰生活上，好叫信徒珍爱灵修，灵命长进！\n\n电邮 ： mana@liangyou.net\n短信 ： 13229966122（注明：吗哪）",
         "songCount": 40,
         "artMedium": "artist_30_art_medium.png",
         "artLarge": "artist_30_art_large.jpg",
         "artistCategoryId": 5,
         "shortName": "mw",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=19&tkey=10cbe39ee3bdfa79",
-        "sort": 3
+        "sort": 3,
+        "past": true
     },
     {
         "stared": false,
@@ -633,14 +648,15 @@
         "albumCount": 0,
         "name": "空中崇拜",
         "oneword": "主日崇拜现场实况",
-        "description": "本节目是由台北信友堂提供的主日崇拜现场实况录音，由良友电台剪接制作，让未能亲身参与主日崇拜的弟兄姊妹，有如置身在教堂内参加敬拜。\n欢迎透过广播、网络，同心聚集敬拜神、聆听诗班的献诗和主仆人的讲道。\n\n>>> 讲章及崇拜程序\n\n电邮\t：\tchongbai@liangyou.net\n短信\t：\t13229966122（注明：崇拜）",
+        "description": "本节目是由台北信友堂提供的主日崇拜现场实况录音，由良友电台剪接制作，让未能亲身参与主日崇拜的弟兄姊妹，有如置身在教堂内参加敬拜。\n欢迎透过广播、网络，同心聚集敬拜神、聆听诗班的献诗和主仆人的讲道。\n\n电邮 ： chongbai@liangyou.net\n短信 ： 13229966122（注明：崇拜）",
         "songCount": 40,
         "artMedium": "artist_31_art_medium.png",
         "artLarge": "artist_31_art_large.jpg",
         "artistCategoryId": 5,
         "shortName": "aw",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=31&tkey=140f1b3effc08651",
-        "sort": 8
+        "sort": 8,
+        "past": true
     },
     {
         "stared": false,
@@ -657,7 +673,8 @@
         "artLarge": "",
         "artistCategoryId": 5,
         "shortName": "sr",
-        "sort": 12
+        "sort": 13,
+        "past": true
     },
     {
         "stared": false,
@@ -674,7 +691,7 @@
         "artLarge": "",
         "artistCategoryId": 5,
         "shortName": "tu",
-        "sort": 13
+        "sort": 14
     },
     {
         "stared": false,
@@ -683,7 +700,7 @@
         "size": "6.9M",
         "id": 64,
         "albumCount": 0,
-        "name": "儿童圣经故事",
+        "name": "小羊圣经故事",
         "oneword": "易懂好听的圣经故事",
         "description": "爱听故事的大朋友、小朋友们，\n快与夏凡哥哥在《儿童圣经故事》里认识上帝奇妙的创造，\n享受上帝所赐的真爱、平安和喜乐。\n让我们一起进入活泼有趣的圣经世界呦！\n\n电邮\t：\tgushi@liangyou.net\n短信\t：\t13229966122（注明：故事）",
         "songCount": 40,
@@ -703,14 +720,14 @@
         "albumCount": 0,
         "name": "蓝天绿洲（普通话、英语）",
         "oneword": "以双语润人心",
-        "description": "想谋生？想人生？想生活？想生命？都可以一起来想。\n爱英语？爱思考？爱音乐？爱真理？也不妨共同去爱！\n\n节目网站（桌面版）：www.729lyprog.net/haven\n节目网站（手机版）：www.729lyprog.net/m/haven\n\n电邮\t：\thaven@liangyou.net\n短信\t：\t13229966122（注明：蓝天）",
+        "description": "想谋生？想人生？想生活？想生命？都可以一起来想。\n爱英语？爱思考？爱音乐？爱真理？也不妨共同去爱！\n\n电邮 ： haven@liangyou.net\n短信 ： 13229966122（注明：蓝天）",
         "songCount": 40,
         "artMedium": "artist_54_art_medium.png",
         "artLarge": "artist_54_art_large.jpg",
         "artistCategoryId": 6,
         "shortName": "hd",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=38&tkey=e6d3d3244c3aac4e",
-        "sort": 6
+        "sort": 14
     },
     {
         "stared": false,
@@ -728,7 +745,8 @@
         "artistCategoryId": 6,
         "shortName": "gl",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=36&tkey=03ec3b79416f1371",
-        "sort": 13
+        "sort": 15,
+        "past": true
     },
     {
         "stared": false,
@@ -739,14 +757,16 @@
         "albumCount": 0,
         "name": "经动人心",
         "oneword": "圣经广播剧",
-        "description": "基于圣经，加上创意，化作动人心弦的圣经广播剧！\n一起走进圣经人物的生命，体会他们的喜怒哀乐。\n认识救主耶稣基督，激励我们在生活中实践信仰。\n\n节目网站（桌面版）：www.729lyprog.net/renxin\n节目网站（手机版）：www.729lyprog.net/m/renxin\n\n电邮\t：\trenxin@liangyou.net\n短信\t：\t13229966122（注明：人心）",
+        "description": "基于圣经，加上创意，化作动人心弦的圣经广播剧！\n一起走进圣经人物的生命，体会他们的喜怒哀乐。\n认识救主耶稣基督，激励我们在生活中实践信仰。\n\n电邮 ： renxin@liangyou.net\n短信 ： 13229966122（注明：人心）",
         "songCount": 40,
         "artMedium": "artist_35_art_medium.png",
         "artLarge": "artist_35_art_large.jpg",
         "artistCategoryId": 6,
         "shortName": "ba",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=32&tkey=31ff31240126a657",
-        "sort": 12
+        "sort": 13,
+        "past": true
+
     },
     {
         "stared": false,
@@ -764,7 +784,7 @@
         "artistCategoryId": 6,
         "shortName": "th",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=56&tkey=24444fee0a790fb6",
-        "sort": 4
+        "sort": 7
     },
     {
         "stared": false,
@@ -775,14 +795,14 @@
         "albumCount": 0,
         "name": "天路导向（普通话、英语）",
         "oneword": "普通话，英语主题式讲座",
-        "description": "借由讲座信息，配以诗歌、祷告、内容简介和扼要总结，让听众更能掌握和了解信息内容。\n逐句英译中的讲道，帮助听众更好地吸收信息，并提高英文水平。\n\n>>> 讲章\n\n电邮\t：\tdaoxiang@liangyou.net\n短信\t：\t13229966122（注明：导向）",
+        "description": "借由讲座信息，配以诗歌、祷告、内容简介和扼要总结，让听众更能掌握和了解信息内容。\n逐句英译中的讲道，帮助听众更好地吸收信息，并提高英文水平。\n\n电邮 ： daoxiang@liangyou.net\n短信 ： 13229966122（注明：导向）",
         "songCount": 40,
         "artMedium": "artist_55_art_medium.png",
         "artLarge": "",
         "artistCategoryId": 6,
         "shortName": "wa",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=50&tkey=b0c031186f2059bf",
-        "sort": 10
+        "sort": 9
     },
     {
         "stared": false,
@@ -793,14 +813,14 @@
         "albumCount": 0,
         "name": "天路导向（粤语、英语）",
         "oneword": "粤语，英语主题式讲座",
-        "description": "透过中英双语广播，提高你的英语水平；\n通过重点经文分享，引导你的人生方向。\n\n>>> 讲章\n\n电邮\t：\tdaoxiangyue@liangyou.net\n短信\t：\t13229966122（注明：导向粤）",
+        "description": "透过中英双语广播，提高你的英语水平；\n通过重点经文分享，引导你的人生方向。\n\n电邮 ： daoxiangyue@liangyou.net\n短信 ： 13229966122（注明：导向粤）",
         "songCount": 40,
         "artMedium": "artist_56_art_medium.png",
         "artLarge": "",
         "artistCategoryId": 6,
         "shortName": "cwa",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=60&tkey=c022bf164935554e",
-        "sort": 11
+        "sort": 10
     },
     {
         "stared": false,
@@ -811,7 +831,7 @@
         "albumCount": 0,
         "name": "真道分解",
         "oneword": "活出圣道真意义",
-        "description": "透过圣经66卷书的讲解和教导，与你一起查经、读经、研经，\n让神的话语扎根，栽培你灵命成长，帮助你活出信仰！\n\n>>> 经卷讲解\n\n电邮\t：\tzhendao@liangyou.net\n短信\t：\t13229966122（注明：真道）",
+        "description": "透过圣经66卷书的讲解和教导，与你一起查经、读经、研经，\n让神的话语扎根，栽培你灵命成长，帮助你活出信仰！\n\n电邮 ： zhendao@liangyou.net\n短信 ： 13229966122（注明：真道）",
         "songCount": 40,
         "artMedium": "artist_36_art_medium.png",
         "artLarge": "",
@@ -829,14 +849,15 @@
         "albumCount": 0,
         "name": "聆听主道",
         "oneword": "聆听主道，活出真理",
-        "description": "“你为许多的事思虑烦扰，但是不可少的只有一件。安静下来，聆听主道，这是上好的福分，是不能夺去的。”\n神所重用的仆人，为当代信徒讲解圣经真道。\n让我们一同安静下来，靠近主脚前，用心——聆听主道。\n\n>>> 讲章\n\n电邮\t：\tzhudao@liangyou.net\n短信\t：\t13229966122（注明：主道）",
+        "description": "“你为许多的事思虑烦扰，但是不可少的只有一件。安静下来，聆听主道，这是上好的福分，是不能夺去的。”\n神所重用的仆人，为当代信徒讲解圣经真道。\n让我们一同安静下来，靠近主脚前，用心——聆听主道。\n\n电邮 ： zhudao@liangyou.net\n短信 ： 13229966122（注明：主道）",
         "songCount": 40,
         "artMedium": "artist_37_art_medium.png",
         "artLarge": "",
         "artistCategoryId": 6,
         "shortName": "hw",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=59&tkey=1b5cc4dc8422c13f",
-        "sort": 5
+        "sort": 11,
+        "past": true
     },
     {
         "stared": false,
@@ -847,14 +868,15 @@
         "albumCount": 0,
         "name": "圣言盛宴",
         "oneword": "来！一起轻松查经去",
-        "description": "透过小组查经的方式与呈现，带领听众明白神的圣言，领受属灵的丰盛筵席。\n\n节目网站（桌面版）：www.729lyprog.net/shengyan\n节目网站（手机版）：www.729lyprog.net/m/shengyan\n\n>>> 查经纲要\n\n电邮\t：\tshengyan@liangyou.net\n短信\t：\t13229966122（注明：圣言）",
+        "description": "透过小组查经的方式与呈现，带领听众明白神的圣言，领受属灵的丰盛筵席。\n\n电邮 ： shengyan@liangyou.net\n短信 ： 13229966122（注明：圣言）",
         "songCount": 40,
         "artMedium": "artist_38_art_medium.png",
         "artLarge": "artist_38_art_large.jpg",
         "artistCategoryId": 6,
         "shortName": "bs",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=33&tkey=3d651ef7b456c103",
-        "sort": 3
+        "sort": 2,
+        "past": true
     },
     {
         "stared": false,
@@ -872,7 +894,7 @@
         "artistCategoryId": 6,
         "shortName": "yp",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=49&tkey=994582888193b40b",
-        "sort": 7
+        "sort": 12
     },
     {
         "stared": false,
@@ -890,7 +912,8 @@
         "artistCategoryId": 6,
         "shortName": "gsa",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=51&tkey=249272a1d88352ea",
-        "sort": 9
+        "sort": 6,
+        "past": true
     },
     {
         "stared": false,
@@ -901,14 +924,14 @@
         "albumCount": 0,
         "name": "与神同行",
         "oneword": "查尔斯史达尼牧师讲章",
-        "description": "透过查尔斯史达尼牧师（Charles Stanley）的讲章，造就信徒灵命成长。\n\n>>> 讲章\n\n电邮\t：\ttongxing@liangyou.net\n短信\t：\t13229966122（注明：同行）",
+        "description": "透过查尔斯史达尼牧师（Charles Stanley）的讲章，造就信徒灵命成长。\n\n电邮 ： tongxing@liangyou.net\n短信 ： 13229966122（注明：同行）",
         "songCount": 40,
         "artMedium": "artist_41_art_medium.png",
         "artLarge": "",
         "artistCategoryId": 6,
         "shortName": "it",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=30&tkey=4485d31f01315ad3",
-        "sort": 2
+        "sort": 5
     },
     {
         "stared": false,
@@ -926,7 +949,7 @@
         "artistCategoryId": 6,
         "shortName": "iv",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=52&tkey=53b6b6da957fd162",
-        "sort": 14
+        "sort": 16
     },
     {
         "stared": false,
@@ -944,7 +967,7 @@
         "artistCategoryId": 7,
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=64&tkey=7c4e4dd115149d1c",
         "shortName": "vc",
-        "sort": 1
+        "sort": 5
     },
     {
         "stared": false,
@@ -962,7 +985,7 @@
         "artistCategoryId": 7,
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=54&tkey=998c5ab1525afe20",
         "shortName": "pb",
-        "sort": 7
+        "sort": 8
     },
     {
         "stared": false,
@@ -980,7 +1003,7 @@
         "artistCategoryId": 7,
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=54&tkey=998c5ab1525afe20",
         "shortName": "pba",
-        "sort": 0
+        "sort": 15
     },
     {
         "stared": false,
@@ -998,7 +1021,7 @@
         "artistCategoryId": 7,
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=54&tkey=998c5ab1525afe20",
         "shortName": "pbb",
-        "sort": 0
+        "sort": 15
     },
     {
         "stared": false,
@@ -1015,7 +1038,7 @@
         "artLarge": "",
         "artistCategoryId": 7,
         "shortName": "bb",
-        "sort": 7
+        "sort": 16
     },
     {
         "stared": false,
@@ -1026,14 +1049,14 @@
         "albumCount": 0,
         "name": "晨曦讲座",
         "oneword": "健康教会，健康工人",
-        "description": "良院牧者和师长每天与你分享，透过圣经真理建立你的生命与事奉；\n帮助学员应用、实践良院课程中所学，打造──健康教会，健康工人！\n\n栏目：\n星期日　　　良院讲台\n星期一　　　良院专区\n星期二　　　教牧新视野\n星期三　　　晨曦交流站\n星期四　　　宣教心之路\n星期五、六　从布道到培训\n\n电邮\t：\tchenxi@liangyou.net",
+        "description": "良院牧者和师长每天与你分享，透过圣经真理建立你的生命与事奉；\n帮助学员应用、实践良院课程中所学，打造──健康教会，健康工人！\n\n栏目：\n星期一　教导与牧养（主持：林诚、姚谦）\n星期二　健康教会面面观（主持：林诚、姚谦）\n星期三　教牧视野八达通（主持：林诚、罗文辉）\n星期四　宣教新知与实践（主持：林诚、汤老师）\n星期五　教牧辅导教室（主持：林诚、罗加怡）\n星期六、日　卢文心底话（主持：卢文、杨天成）\n\n电邮 ： chenxi@liangyou.net",
         "songCount": 40,
         "artMedium": "artist_46_art_medium.png",
         "artLarge": "",
         "artistCategoryId": 7,
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=63&tkey=974f2fbbe3018f32",
         "shortName": "ds",
-        "sort": 0
+        "sort": 6
     },
     {
         "stared": false,
@@ -1051,7 +1074,7 @@
         "artistCategoryId": 7,
         "shortName": "jvw",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=68&tkey=528f0cb87535f393",
-        "sort": 7
+        "sort": 17
     },
     {
         "stared": false,
@@ -1069,7 +1092,7 @@
         "artistCategoryId": 7,
         "shortName": "jow",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=68&tkey=528f0cb87535f393",
-        "sort": 7
+        "sort": 18
     },
     {
         "stared": false,
@@ -1087,7 +1110,7 @@
         "artistCategoryId": 7,
         "shortName": "jcw",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=68&tkey=528f0cb87535f393",
-        "sort": 7
+        "sort": 19
     },
     {
         "stared": false,
@@ -1105,7 +1128,7 @@
         "artistCategoryId": 7,
         "shortName": "jvt",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=68&tkey=528f0cb87535f393",
-        "sort": 7
+        "sort": 20
     },
     {
         "stared": false,
@@ -1123,7 +1146,7 @@
         "artistCategoryId": 7,
         "shortName": "jot",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=68&tkey=528f0cb87535f393",
-        "sort": 7
+        "sort": 21
     },
     {
         "stared": false,
@@ -1141,7 +1164,7 @@
         "artistCategoryId": 7,
         "shortName": "jct",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=68&tkey=528f0cb87535f393",
-        "sort": 7
+        "sort": 22
     },
     {
         "stared": false,
@@ -1159,7 +1182,7 @@
         "artistCategoryId": 7,
         "shortName": "jvs",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=68&tkey=528f0cb87535f393",
-        "sort": 2
+        "sort": 10
     },
     {
         "stared": false,
@@ -1177,7 +1200,7 @@
         "artistCategoryId": 7,
         "shortName": "jos",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=68&tkey=528f0cb87535f393",
-        "sort": 3
+        "sort": 11
     },
     {
         "stared": false,
@@ -1195,7 +1218,7 @@
         "artistCategoryId": 7,
         "shortName": "jcs",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=68&tkey=528f0cb87535f393",
-        "sort": 4
+        "sort": 12
     },
     {
         "stared": false,
@@ -1213,7 +1236,7 @@
         "artistCategoryId": 7,
         "shortName": "jwt",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=68&tkey=528f0cb87535f393",
-        "sort": 5
+        "sort": 13
     },
     {
         "stared": false,
@@ -1230,7 +1253,7 @@
         "artLarge": "",
         "artistCategoryId": 7,
         "shortName": "dp",
-        "sort": 6
+        "sort": 14
     },
     {
         "stared": false,
@@ -1240,8 +1263,8 @@
         "id": 66,
         "albumCount": 0,
         "name": "迎风传颂",
-        "oneword": "古今基督教音乐",
-        "description": "带你认识中西圣诗发展，\n与你一起音乐灵修，\n共享洗涤心灵的诗歌。\n\n栏目：\n星期一　心中有歌\n星期二　华夏颂扬\n星期三　圣诗之旅\n星期四　音乐灵修\n星期五　璀璨音符\n\n电邮\t：\tchuansong@liangyou.net\n短信\t：\t13229966122（注明：传颂）",
+        "oneword": "与你一起颂赞灵修",
+        "description": "每天陪伴你音乐灵修，\n共享洗涤心灵的诗歌。\n\n栏目：\n星期一　心中有歌（主持：麦思嘉）\n星期二　乐音圣言（主持：骆云秀）\n星期三　轻听静待（主持：麦思嘉）\n星期四　音乐灵修（主持：骆云秀）\n星期五　璀璨音符（主持：麦思嘉）\n\n电邮 ： chuansong@liangyou.net\n短信 ： 13229966122（注明：传颂）",
         "songCount": 40,
         "artMedium": "artist_66_art_medium.png",
         "artLarge": "",
@@ -1277,14 +1300,15 @@
         "albumCount": 0,
         "name": "齐来颂扬",
         "oneword": "诗歌分享、诗歌敬拜",
-        "description": "音乐是神赐给人类美好的礼物；诗歌是基督信仰丰富的宝藏。\n不同年代的基督徒用诗歌赞美神伟大奇妙的作为，表达对神的感恩、敬畏与委身。\n一首好的诗歌宛如一篇好的信息，能与灵魂对话，激励憾动人心。\n节目主持蒙恩得救以来，从学唱80年代的传统圣诗到今日的现代诗歌，细心品味每首诗歌的内涵与曲调，分享给喜爱诗歌的主内弟兄姊妹。\n\n栏目：\n星期一　生命之歌、与世代对话\n星期二　弹指之间、敬拜心指南\n星期三　心歌心曲、心灵小语\n星期四　来吧赞美、听见万国\n星期五　赞美旋律、阿哲聊天室\n\n节目网站（桌面版）：www.729lyprog.net/songyang\n节目网站（手机版）：www.729lyprog.net/m/songyang\n\n电邮\t：\tsongyang@liangyou.net\n短信\t：\t13229966122（注明：颂扬）",
+        "description": "音乐是神赐给人类美好的礼物；诗歌是基督信仰丰富的宝藏。\n不同年代的基督徒用诗歌赞美神伟大奇妙的作为，表达对神的感恩、敬畏与委身。\n一首好的诗歌宛如一篇好的信息，能与灵魂对话，激励憾动人心。\n让我们一同将生命聚焦于神，生活里的每个时光，都可以是向神献上赞美与祷告的时刻。\n\n栏目：\n星期一\n生命之歌：传统诗歌介绍（主持：许金宁）\n与世代对话：针对信徒所设计的议题分享（主持：许金宁）\n\n星期二\n弹指之间：边弹边唱、穿插有关信仰的议题彼此讨论的敬拜行式（主持：许金宁、骆云秀）\n属天情歌：听友点播诗歌（主持：许金宁）\n\n星期三\n心歌心曲：现代的流行诗歌介绍（主持：许金宁）\n心灵小语：主持的生活分享与实践（主持：许金宁）\n\n星期四\n来吧赞美：针对小组和团契设计，由《齐来颂扬》敬拜团队主领（主持：齐来颂扬敬拜团）\n敬拜心指南：教导关于敬拜的真谛与带领敬拜的实用课程（主持：章赞）\n\n星期五\n赞美旋律：音乐中之圣乐和电影中之信仰配乐介绍（主持：许金宁）\n阿哲聊天室：与天韵合唱团合作（主持：谢光哲）\n\n电邮 ： songyang@liangyou.net\n短信 ： 13229966122（注明：颂扬）",
         "songCount": 40,
         "artMedium": "artist_51_art_medium.png",
         "artLarge": "artist_51_art_large.jpg",
         "artistCategoryId": 8,
         "shortName": "cw",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=34&tkey=165535f09ef6dbe2",
-        "sort": 1
+        "sort": 1,
+        "past": true
     },
     {
         "stared": false,
@@ -1302,7 +1326,8 @@
         "artistCategoryId": 8,
         "shortName": "tr",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=46&tkey=743d0a6d8dfc2c5e",
-        "sort": 5
+        "sort": 5,
+        "past": true
     },
     {
         "stared": false,
@@ -1313,14 +1338,15 @@
         "albumCount": 0,
         "name": "长夜的牵引",
         "oneword": "分享与诗歌的结合",
-        "description": "有一束光，用跳跃的音符，带领着你和我穿过长夜。\n那是牵引，那是爱，进入自由的天地，显明真理。\n《长夜的牵引》，和你一起离开黑暗，迎向那光！\n个人信仰心路分享，渗透人心的诗歌，带来安慰和鼓励。\n\n节目网站（桌面版）：www.729lyprog.net/changye\n节目网站（手机版）：www.729lyprog.net/m/changye\n\n电邮\t：\tchangye@liangyou.net\n短信\t：\t13229966122（注明：长夜）",
+        "description": "有一束光，用跳跃的音符，带领着你和我穿过长夜。\n那是牵引，那是爱，进入自由的天地，显明真理。\n《长夜的牵引》，和你一起离开黑暗，迎向那光！\n个人信仰心路分享，渗透人心的诗歌，带来安慰和鼓励。\n\n电邮 ： changye@liangyou.net\n短信 ： 13229966122（注明：长夜）",
         "songCount": 40,
         "artMedium": "artist_53_art_medium.png",
         "artLarge": "artist_53_art_large.jpg",
         "artistCategoryId": 8,
         "shortName": "ws",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=47&tkey=532ede041e7216c0",
-        "sort": 3
+        "sort": 3,
+        "past": true
     },
     {
         "stared": false,
@@ -1358,6 +1384,331 @@
         "shortName": "ynf",
         "sort": 1
 
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 79,
+        "albumCount": 0,
+        "name": "欢乐揪你耳",
+        "oneword": "陪伴青少年成长",
+        "description": "Junior！“揪”是你！\n青春生活与你相伴，欢乐笑声不会间断！\n《欢乐揪你耳》特别为青少年录制，用声音开启精采世界！\n“人际交往、课业学习、生活新知、自我提升……”跟着我们一起去探索吧！\n《欢乐揪你耳》，陪你成长的好伙伴！\n\n栏目：\n星期日　爸妈不要听：以基督信仰来思考青少年有兴趣的议题、新闻，并调和与不同世代间的观点\n星期一　学习没在怕：学习不可怕，你只需要好方法！最实用的观念、最扎实的操练，让你成为全新的你。\n星期二　创译英文神队友：轻松有趣的学习体验，让专业师资成为你的英文神队友──Boss级的英文怪兽，放马过来吧！\n星期三　校园LXS练习生：学校遇到的疑难杂症、不敢说出的心底话，在这里我们畅所欲言、同心同行。\n星期四　听‧武侠：这位大侠，欢迎品尝专属你的武林广播剧，在你的耳中，没有不可能！\n星期五　有耳好书：不爱读书！？那是因为你还没读过这一本为你特选的好书，保证开卷有益！\n星期六　左耳进右耳不出：介绍好听、有意义的歌曲或诗歌\n\n电邮 ： jiunier@liangyou.net\n短信 ： 13229966122（注明：揪你耳）",
+        "songCount": 40,
+        "artMedium": "artist_79_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 1,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=77&tkey=b79165d8b6c0e68f",
+        "shortName": "hj",
+        "sort": 0
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 80,
+        "albumCount": 0,
+        "name": "半边天",
+        "oneword": "专为女性量身订做",
+        "description": "现代女性为家、为工作、为生活而奋斗，\n努力的付出，要扮演不同的角色，而且要称职，相当不简单！\n《半边天》提供一个给妇女休憩、充电、彼此打气的空间，可以让女性持续美丽、快乐向前！\n\n栏目：\n星期一　好女人、好关系\n星期二　好文学、好旅行\n星期三　好视角、好戏剧\n星期四　好风格、好丰盛\n星期五　好滋味、好生活\n\n电邮 ： banbiantian@liangyou.net\n短信 ： 13229966122（注明：半边天）",
+        "songCount": 40,
+        "artMedium": "artist_80_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 1,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=76&tkey=9bf35bd5dc981374",
+        "shortName": "bh",
+        "sort": 3
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 81,
+        "albumCount": 0,
+        "name": "岁月正好",
+        "oneword": "虽然年老，岁月正好",
+        "description": "关心你所关心的话题，精选人物故事，\n畅谈健康养生之道，分享很棒的诗歌音乐。\n《岁月正好》，陪伴老年人度过金色年华！\n\n栏目：\n星期一　　　事事关心：分享与老人相关的话题\n星期二、三　故事人生：用故事点缀你的人生\n星期四　　　叶岚话养生：活得更健康\n星期五　　　唱响夕阳：用音乐唱响晚年\n\n电邮 ： suiyue@liangyou.net\n短信 ： 13229966122（注明：岁月）",
+        "songCount": 40,
+        "artMedium": "artist_81_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 1,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=78&tkey=f65fb577e23d1611",
+        "shortName": "ec",
+        "sort": 7
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 82,
+        "albumCount": 0,
+        "name": "声梦奇园",
+        "oneword": "实践播音梦的平台",
+        "description": "从听众到主播，\n以声音来梦想，\n让奇异恩典充满这个园地。\n一同见证“广播梦工场”学员的学习成果吧！\n\n栏目：\n星期日　松枝阿姨讲故事（主持：松枝）\n星期六　赞美岁月（主持：赞美）；经典再现（主持：小艺术家）\n\n电邮 ： shengmeng@liangyou.net\n短信 ： 13229966122（注明：声梦）",
+        "songCount": 40,
+        "artMedium": "artist_82_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 1,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=79&tkey=513fbf1265832bd3",
+        "shortName": "ms",
+        "sort": 9
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 83,
+        "albumCount": 0,
+        "name": "平凡的超人",
+        "oneword": "平凡人活出不平凡",
+        "description": "从神创造了人开始，跟人交往是人的本能，需要在彼此的互动中，分享快乐、分担责任。从圣经人物的生命经历中观察和学习，是最实际和最有说服力的，所得的法则，也是经得起考验的。\n我们虽平凡，却可以靠神超越的大能和恩典，脱离关系破裂的痛苦，享受神原本所赐的真爱关系。\n\n电邮 ： chaoren@liangyou.net\n短信 ： 13229966122（注明：超人）",
+        "songCount": 40,
+        "artMedium": "artist_83_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 5,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=80&tkey=5466a7d4ced0fb75",
+        "shortName": "rs",
+        "sort": 10
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 84,
+        "albumCount": 0,
+        "name": "良院讲台",
+        "oneword": "宣讲圣道，喂养群羊",
+        "description": "由良友圣经学院及各教会牧者老师每周按时分粮，宣讲上帝话语。\n从多角度解读经文，认识上主真道。\n无论是良友圣经学院学员，或者对信仰渴慕的你，均欢迎按时收听。\n\n电邮 ： school@liangyou.net",
+        "songCount": 40,
+        "artMedium": "artist_84_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 7,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=64&tkey=7c4e4dd115149d1c",
+        "shortName": "vp",
+        "sort": 5
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 85,
+        "albumCount": 0,
+        "name": "跟祢脚踪",
+        "oneword": "门徒训练课程",
+        "description": "这是一个门徒训练课程，共104讲，分廿六单元，重点包括：\n\n着重生命\n课题偏重门徒生命，行路当有表现，在教会内外追随基督的样式。既谈基督，又谈门徒跟从，课题略会重复，但盼借此深化门徒生命的传递。\n\n跟随基督\n首十单元带出作主门徒十个基本特色；次八单元强调追随主耶稣四大品性要环；最后八单元旨在指出门徒在教会生活中四方面当有的表现。\n\n门徒召命\n单以廿六单元实未能尽诉门徒面貌，但在重复题目中盼可成全一清晰画像──主耶稣的生命，是可复印在跟随祂的门徒中，成为他们当有的生命。\n\n电邮 ： genni@liangyou.net\n短信 ： 13229966122（注明：跟祢）",
+        "songCount": 40,
+        "artMedium": "artist_85_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 7,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=74&tkey=de6e975050ba01ee",
+        "shortName": "dt",
+        "sort": 7
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 86,
+        "albumCount": 0,
+        "name": "良友圣经学院（启航课程）",
+        "oneword": "适合年青、初信或没有受过基本神学训练的信徒",
+        "description": "为装备教会义工及青年信徒而设，适合初信者和预备报读本科文凭课程者收听。\n\n良友圣经学院网站：lts38.net",
+        "songCount": 40,
+        "artMedium": "artist_86_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 7,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=65&tkey=63a4ad604af0525a",
+        "shortName": "ltsnp",
+        "sort": 0
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 87,
+        "albumCount": 0,
+        "name": "良友圣经学院（本科文凭课程）（第一套）",
+        "oneword": "装备服侍教会领袖",
+        "description": "为装备服侍教会的领袖而设，适合传道人修读。\n\n良友圣经学院网站：lts38.net",
+        "songCount": 40,
+        "artMedium": "artist_87_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 7,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=65&tkey=63a4ad604af0525a",
+        "shortName": "ltsdp1",
+        "sort": 1
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 88,
+        "albumCount": 0,
+        "name": "良友圣经学院（本科文凭课程）（第二套）",
+        "oneword": "装备服侍教会领袖",
+        "description": "为装备服侍教会的领袖而设，适合传道人修读。\n\n良友圣经学院网站：lts38.net",
+        "songCount": 40,
+        "artMedium": "artist_88_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 7,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=65&tkey=63a4ad604af0525a",
+        "shortName": "ltsdp2",
+        "sort": 2
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 89,
+        "albumCount": 0,
+        "name": "良友圣经学院（进深文凭课程）（第一套）",
+        "oneword": "供本科毕业生或传道人进修",
+        "description": "适合本科毕业生或传道人修读。\n\n良友圣经学院网站：lts38.net",
+        "songCount": 40,
+        "artMedium": "artist_89_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 7,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=65&tkey=63a4ad604af0525a",
+        "shortName": "ltshdp1",
+        "sort": 3
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 90,
+        "albumCount": 0,
+        "name": "良友圣经学院（进深文凭课程）（第二套）",
+        "oneword": "供本科毕业生或传道人进修",
+        "description": "适合本科毕业生或传道人修读。\n\n良友圣经学院网站：lts38.net",
+        "songCount": 40,
+        "artMedium": "artist_90_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 7,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=65&tkey=63a4ad604af0525a",
+        "shortName": "ltshdp2",
+        "sort": 4
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 91,
+        "albumCount": 0,
+        "name": "不孤单地球",
+        "oneword": "给年轻的我们",
+        "description": "地球是圆的，你也许不会遇见我；\n声音是暖的，让它可以温暖我；\n不孤单地球，用你的声音，让我们不孤单。\n\n栏目：\n整点儿烦恼：分享生活中的烦恼事（情感分享类，关于爱情、亲情、友情和自我成长）（主持：米娜、舟舟）\n音乐派：透过音乐，分享生活中的感受（主持：米娜）\nTalktalk：访谈对话人生的喜怒哀乐，呈现生命的见证（主持：上官娟子、米娜、蓝梦远）\n互动祝福：逢星期五，听众可以即时留言，为亲友送上祝福（主持：米娜）\n\n电邮 ： bugudan@liangyou.net\n短信 ： 13229966022（注明：不孤单）",
+        "songCount": 40,
+        "artMedium": "artist_91_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 1,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=87&tkey=1d61bafb5fdd9810",
+        "shortName": "wc",
+        "sort": 4
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 92,
+        "albumCount": 0,
+        "name": "深度泛桌派",
+        "oneword": "生活热点，深度解析",
+        "description": "面对现实处境，鲜活问题，不一样的视角，不一样的解读。\n从现象到观念，从文化到文明，用属灵的视角来探索人生的价值。同时关注处理负面情绪，学习控制情绪。在家庭和工作中，建立良好人际关系。\n透过对话，敞开心扉，与听众分享健康、积极和喜乐的人生态度。\n\n电邮 ： fanzhuopai@liangyou.net\n短信 ： 13229966122（注明：泛桌派）",
+        "songCount": 40,
+        "artMedium": "artist_92_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 1,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=86&tkey=f6578891e6bb6bc8",
+        "shortName": "pt",
+        "sort": 6
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 93,
+        "albumCount": 0,
+        "name": "穿越圣经",
+        "oneword": "横穿古今，纵览圣经",
+        "description": "圣经是世界销量第一的书籍，虽然年代久远，却充满着时代讯息。千百年来，无数人类从圣经中得着亮光和启迪。\n麦基牧师多年醉心研读圣经，他借此节目把圣经精义大要，与你深入浅出，娓娓道来，让你纵横古今未来，见证圣经不变的亘古真理。\n\n电邮 ： chuanyue@liangyou.net\n短信 ： 13229966122（注明：穿越）",
+        "songCount": 40,
+        "artMedium": "artist_93_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 6,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=84&tkey=ed1268b756f91cd3",
+        "shortName": "ttb",
+        "sort": 3
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 94,
+        "albumCount": 0,
+        "name": "穿越圣经（粤语）",
+        "oneword": "横穿古今，纵览圣经",
+        "description": "圣经是世界销量第一的书籍，虽然年代久远，却充满着时代讯息。千百年来，无数人类从圣经中得着亮光和启迪。\n麦基牧师多年醉心研读圣经，他借此节目把圣经精义大要，与你深入浅出，娓娓道来，让你纵横古今未来，见证圣经不变的亘古真理。\n\n电邮 ： chuanyue2@liangyou.net\n短信 ： 13229966122（注明：穿越粤）",
+        "songCount": 40,
+        "artMedium": "artist_94_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 6,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=85&tkey=e0cb3a3c462cac8c",
+        "shortName": "cttb",
+        "sort": 4
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 95,
+        "albumCount": 0,
+        "name": "生命的四季",
+        "oneword": "生命的四季",
+        "description": "",
+        "songCount": 40,
+        "artMedium": "artist_95_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 5,
+        "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=1&tkey=ce16b6434b5e5b3b",
+        "shortName": "ns",
+        "sort": 4,
+        "past": true
+    },
+    {
+        "stared": false,
+        "invertedOrder": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 96,
+        "albumCount": 0,
+        "name": "无愧的工人",
+        "oneword": "无愧的工人",
+        "description": "",
+        "songCount": 40,
+        "artMedium": "artist_96_art_medium.png",
+        "artLarge": "",
+        "artistCategoryId": 5,
+        "shortName": "wga",
+        "sort": 4,
+        "past": true
     },
     {
         "stared": false,

@@ -1,0 +1,53 @@
+[{
+    "title": "日期",
+    "id": 1,
+    "albums": [{
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "津津乐道 2016年",
+            "description": "",
+            "songCount": 8,
+            "albumCategoryId": 6007,
+            "shortName": "sg2016",
+            "staredSongIndex": 6007,
+            "id": 37000
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "津津乐道 2017年",
+            "description": "",
+            "songCount": 53,
+            "albumCategoryId": 6007,
+            "shortName": "sg2017",
+            "staredSongIndex": 6007,
+            "id": 37001
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "津津乐道 2018年",
+            "description": "",
+            "songCount": 51,
+            "albumCategoryId": 6007,
+            "shortName": "sg2018",
+            "staredSongIndex": 6007,
+            "id": 37002
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "津津乐道 2019年",
+            "description": "",
+            "songCount": 52,
+            "albumCategoryId": 6007,
+            "shortName": "sg2019",
+            "staredSongIndex": 6007,
+            "id": 37003
+        }
+    ]
+}]

@@ -1,0 +1,125 @@
+[{
+	"title": "日期",
+	"id": 1,
+	"albums": [{
+			"stared": false,
+			"duration": 1760,
+			"size": "7M",
+			"name": "认识你真好 2017年07-09月 ",
+			"description": "",
+			"songCount": 92,
+			"albumCategoryId": 6003,
+			"shortName": "vof201703",
+			"staredSongIndex": 6003,
+			"id": 33000
+		},
+		{
+			"stared": false,
+			"duration": 1760,
+			"size": "7M",
+			"name": "认识你真好 2017年10-12月 ",
+			"description": "",
+			"songCount": 92,
+			"albumCategoryId": 6003,
+			"shortName": "vof201704",
+			"staredSongIndex": 6003,
+			"id": 33001
+		},
+		{
+			"stared": false,
+			"duration": 1760,
+			"size": "7M",
+			"name": "认识你真好 2018年01-03月 ",
+			"description": "",
+			"songCount": 90,
+			"albumCategoryId": 6003,
+			"shortName": "vof201801",
+			"staredSongIndex": 6003,
+			"id": 33002
+		},
+		{
+			"stared": false,
+			"duration": 1760,
+			"size": "7M",
+			"name": "认识你真好 2018年04-06月 ",
+			"description": "",
+			"songCount": 91,
+			"albumCategoryId": 6003,
+			"shortName": "vof201802",
+			"staredSongIndex": 6003,
+			"id": 33003
+		},
+		{
+			"stared": false,
+			"duration": 1760,
+			"size": "7M",
+			"name": "认识你真好 2018年07-09月 ",
+			"description": "",
+			"songCount": 92,
+			"albumCategoryId": 6003,
+			"shortName": "vof201803",
+			"staredSongIndex": 6003,
+			"id": 33004
+		},
+		{
+			"stared": false,
+			"duration": 1760,
+			"size": "7M",
+			"name": "认识你真好 2018年10-12月 ",
+			"description": "",
+			"songCount": 92,
+			"albumCategoryId": 6003,
+			"shortName": "vof201804",
+			"staredSongIndex": 6003,
+			"id": 33005
+		},
+		{
+			"stared": false,
+			"duration": 1760,
+			"size": "7M",
+			"name": "认识你真好 2019年01-03月 ",
+			"description": "",
+			"songCount": 90,
+			"albumCategoryId": 6003,
+			"shortName": "vof201901",
+			"staredSongIndex": 6003,
+			"id": 33006
+		},
+		{
+			"stared": false,
+			"duration": 1760,
+			"size": "7M",
+			"name": "认识你真好 2019年04-06月 ",
+			"description": "",
+			"songCount": 91,
+			"albumCategoryId": 6003,
+			"shortName": "vof201902",
+			"staredSongIndex": 6003,
+			"id": 33007
+		},
+		{
+			"stared": false,
+			"duration": 1760,
+			"size": "7M",
+			"name": "认识你真好 2019年07-09月 ",
+			"description": "",
+			"songCount": 92,
+			"albumCategoryId": 6003,
+			"shortName": "vof201903",
+			"staredSongIndex": 6003,
+			"id": 33008
+		},
+		{
+			"stared": false,
+			"duration": 1760,
+			"size": "7M",
+			"name": "认识你真好 2019年10-12月 ",
+			"description": "",
+			"songCount": 92,
+			"albumCategoryId": 6003,
+			"shortName": "vof201904",
+			"staredSongIndex": 6003,
+			"id": 33009
+		}
+	]
+}]

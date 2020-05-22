@@ -1,0 +1,82 @@
+[{
+    "title": "日期",
+    "id": 1,
+    "albums": [{
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "好牧人 2013年 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6021,
+            "shortName": "gsa2013",
+            "id": 61000
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "好牧人 2014年 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6021,
+            "shortName": "gsa2014",
+            "id": 61001
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "好牧人 2015年 ",
+            "description": "",
+            "songCount": 60,
+            "albumCategoryId": 6021,
+            "shortName": "gsa2015",
+            "id": 61002
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "好牧人 2016年 ",
+            "description": "",
+            "songCount": 65,
+            "albumCategoryId": 6021,
+            "shortName": "gsa2016",
+            "id": 61003
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "好牧人 2017年 ",
+            "description": "",
+            "songCount": 63,
+            "albumCategoryId": 6021,
+            "shortName": "gsa2017",
+            "id": 61004
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "好牧人 2018年 ",
+            "description": "",
+            "songCount": 65,
+            "albumCategoryId": 6021,
+            "shortName": "gsa2018",
+            "id": 61005
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "好牧人 2019年 ",
+            "description": "",
+            "songCount": 65,
+            "albumCategoryId": 6021,
+            "shortName": "gsa2019",
+            "id": 61006
+        }
+    ]
+}]

@@ -1,0 +1,192 @@
+[{
+    "title": "日期",
+    "id": 1,
+    "albums": [{
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的四季 2014年10-12月 ",
+            "description": "",
+            "songCount": 43,
+            "albumCategoryId": 6012,
+            "shortName": "ns201404",
+            "id": 52000
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的四季 2015年01-03月 ",
+            "description": "",
+            "songCount": 63,
+            "albumCategoryId": 6012,
+            "shortName": "ns201501",
+            "id": 52001
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的四季 2015年04-06月 ",
+            "description": "",
+            "songCount": 62,
+            "albumCategoryId": 6012,
+            "shortName": "ns201502",
+            "id": 52002
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的四季 2015年07-09月 ",
+            "description": "",
+            "songCount": 66,
+            "albumCategoryId": 6012,
+            "shortName": "ns201503",
+            "id": 52003
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的四季 2015年10-12月 ",
+            "description": "",
+            "songCount": 60,
+            "albumCategoryId": 6012,
+            "shortName": "ns201504",
+            "id": 52004
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的四季 2016年01-03月 ",
+            "description": "",
+            "songCount": 65,
+            "albumCategoryId": 6012,
+            "shortName": "ns201601",
+            "id": 52005
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的四季 2016年04-06月 ",
+            "description": "",
+            "songCount": 64,
+            "albumCategoryId": 6012,
+            "shortName": "ns201602",
+            "id": 52006
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的四季 2016年07-09月 ",
+            "description": "",
+            "songCount": 66,
+            "albumCategoryId": 6012,
+            "shortName": "ns201603",
+            "id": 52007
+        },
+        {
+            "stared": false,
+            "duration": 1760,
+            "size": "7M",
+            "name": "生命的四季 2016年10-12月 ",
+            "description": "",
+            "songCount": 64,
+            "albumCategoryId": 6012,
+            "shortName": "ns201604",
+            "id": 52008
+        }
+    ]
+}, {
+    "title": "专辑",
+    "id": 2,
+    "albums": [{
+        "stared": false,
+        "duration": 1745,
+        "size": "14M",
+        "id": 52100,
+        "name": "《生命的四季》乐在旧约里",
+        "description": "",
+        "songCount": 37,
+        "artistId": 95,
+        "artistName": "生命的四季",
+        "albumCategoryId": 1,
+        "shortName": "ns_joyinold"
+    }, {
+        "stared": false,
+        "duration": 1745,
+        "size": "7M",
+        "id": 52101,
+        "name": "《生命的四季》至理箴言-郑子民",
+        "description": "",
+        "songCount": 24,
+        "artistId": 95,
+        "artistName": "生命的四季",
+        "albumCategoryId": 1,
+        "shortName": "ns_zlzy"
+    }, {
+        "stared": false,
+        "duration": 1745,
+        "size": "7M",
+        "id": 52102,
+        "name": "《生命的四季》信仰ABC-李重恩",
+        "description": "",
+        "songCount": 14,
+        "artistId": 95,
+        "artistName": "生命的四季",
+        "albumCategoryId": 1,
+        "shortName": "ns_xyabc_lce"
+    }, {
+        "stared": false,
+        "duration": 1745,
+        "size": "7M",
+        "id": 52103,
+        "name": "《生命的四季》门徒成长研习班-李重恩",
+        "description": "",
+        "songCount": 29,
+        "artistId": 95,
+        "artistName": "生命的四季",
+        "albumCategoryId": 1,
+        "shortName": "ns_mtczyxb_lce"
+    }, {
+        "stared": false,
+        "duration": 1745,
+        "size": "14M",
+        "id": 52104,
+        "name": "《生命的四季》传道书：活在日光之下",
+        "description": "",
+        "songCount": 10,
+        "artistId": 95,
+        "artistName": "生命的四季",
+        "albumCategoryId": 1,
+        "shortName": "ns_cdshzrgzx"
+    }, {
+        "stared": false,
+        "duration": 1745,
+        "size": "14M",
+        "id": 52105,
+        "name": "《生命的四季》听故事学真理",
+        "description": "",
+        "songCount": 11,
+        "artistId": 95,
+        "artistName": "生命的四季",
+        "albumCategoryId": 1,
+        "shortName": "ns_tgsxzl"
+    }, {
+        "stared": false,
+        "duration": 1745,
+        "size": "14M",
+        "id": 52106,
+        "name": "《生命的四季》圣经中的祷告-程长老",
+        "description": "",
+        "songCount": 42,
+        "artistId": 95,
+        "artistName": "生命的四季",
+        "albumCategoryId": 1,
+        "shortName": "ns_sjzddg"
+    }]
+}]

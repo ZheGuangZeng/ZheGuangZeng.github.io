@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": 1,
         "name": "信仰人生",
         "image": "album_category_1_art_faith_life.png",
@@ -519,10 +518,22 @@
         "image": "album_category_6_art_marriage_family.png"
     },
     {
+        "id": 997,
+        "name": "广播剧",
+        "desc": "",
+        "image": "other_album_category.jpg"
+    },
+    {
+        "id": 998,
+        "name": "有声书",
+        "desc": "",
+        "image": "other_album_category.jpg"
+    },
+    {
         "id": 999,
         "name": "其他",
         "desc": "",
-        "image": "album_category_6_art_marriage_family.png"
+        "image": "other_album_category.jpg"
     },
     {
         "id": 1001,
@@ -628,7 +639,7 @@
     },
     {
         "id": 4002,
-        "name": "神学讲座",
+        "name": "专题信息",
         "desc": "",
         "image": "bible_topics.png"
     },
@@ -665,6 +676,12 @@
     {
         "id": 5005,
         "name": "尔道自建 2019 年",
+        "desc": "",
+        "image": "abs_devotional_lts.png"
+    },
+    {
+        "id": 5006,
+        "name": "尔道自建 2020 年",
         "desc": "",
         "image": "abs_devotional_lts.png"
     },
@@ -721,5 +738,175 @@
         "name": "良院讲台",
         "desc": "",
         "image": "otg_jiangtai.png"
+    },
+
+    {
+        "id": 6000,
+        "name": "彩虹桥-往期节目",
+        "desc": "",
+        "image": "tr.png"
+    },
+    {
+        "id": 6001,
+        "name": "幸福满家园-往期节目",
+        "desc": "",
+        "image": "bf.png"
+    },
+    {
+        "id": 6002,
+        "name": "生活无国界-往期节目",
+        "desc": "",
+        "image": "gv.png"
+    },
+    {
+        "id": 6003,
+        "name": "认识你真好-往期节目",
+        "desc": "",
+        "image": "vof.png"
+    }
+
+    ,
+    {
+        "id": 6004,
+        "name": "亲情不断电-往期节目",
+        "desc": "",
+        "image": "up.png"
+    }
+
+    ,
+    {
+        "id": 6005,
+        "name": "拥抱每一天-往期节目",
+        "desc": "",
+        "image": "ee.png"
+    }
+
+
+    ,
+    {
+        "id": 6006,
+        "name": "旷野吗哪-往期节目",
+        "desc": "",
+        "image": "mw.png"
+    }
+
+    ,
+    {
+        "id": 6007,
+        "name": "津津乐道-往期节目",
+        "desc": "",
+        "image": "sg.png"
+    }
+
+    ,
+    {
+        "id": 6008,
+        "name": "绝妙当家-往期节目",
+        "desc": "",
+        "image": "yu.png"
+    }
+
+    ,
+    {
+        "id": 6009,
+        "name": "空中辅导-往期节目",
+        "desc": "",
+        "image": "cc.png"
+    }
+
+    ,
+    {
+        "id": 6010,
+        "name": "恋爱季节-往期节目",
+        "desc": "",
+        "image": "se.png"
+    }
+
+    ,
+    {
+        "id": 6011,
+        "name": "空中崇拜-往期节目",
+        "desc": "",
+        "image": "aw.png"
+    }
+
+    ,
+    {
+        "id": 6012,
+        "name": "生命的四季-往期节目",
+        "desc": "",
+        "image": "ns.png"
+    }
+
+    ,
+    {
+        "id": 6013,
+        "name": "经动人心-往期节目",
+        "desc": "",
+        "image": "ba.png"
+    }
+
+    ,
+    {
+        "id": 6014,
+        "name": "现代人的希望-往期节目",
+        "desc": "",
+        "image": "gn.png"
+    }
+
+    ,
+    {
+        "id": 6015,
+        "name": "欢乐卡恰碰-往期节目",
+        "desc": "",
+        "image": "hg.png"
+    }
+
+    ,
+    {
+        "id": 6016,
+        "name": "齐来颂扬-往期节目",
+        "desc": "",
+        "image": "cw.png"
+    }
+
+    ,
+    {
+        "id": 6018,
+        "name": "长夜的牵引-往期节目",
+        "desc": "",
+        "image": "ws.png"
+    }
+
+    ,
+    {
+        "id": 6019,
+        "name": "聆听主道-往期节目",
+        "desc": "",
+        "image": "hw.png"
+    }
+
+    ,
+    {
+        "id": 6020,
+        "name": "生命的福音-往期节目",
+        "desc": "",
+        "image": "gl.png"
+    }
+
+    ,
+    {
+        "id": 6021,
+        "name": "好牧人-往期节目",
+        "desc": "",
+        "image": "gsa.png"
+    }
+
+    ,
+    {
+        "id": 6022,
+        "name": "圣言盛宴-往期节目",
+        "desc": "",
+        "image": "bs.png"
     }
 ]
