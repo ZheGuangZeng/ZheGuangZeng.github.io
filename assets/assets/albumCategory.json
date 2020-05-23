@@ -908,5 +908,17 @@
         "name": "圣言盛宴-往期节目",
         "desc": "",
         "image": "bs.png"
+    },
+    {
+        "id": 6023,
+        "name": "与神同行-往期节目",
+        "desc": "",
+        "image": "it.png"
+    },
+    {
+        "id": 6024,
+        "name": "真理之光-往期节目",
+        "desc": "",
+        "image": "th.png"
     }
 ]

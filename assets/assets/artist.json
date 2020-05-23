@@ -784,7 +784,8 @@
         "artistCategoryId": 6,
         "shortName": "th",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=56&tkey=24444fee0a790fb6",
-        "sort": 7
+        "sort": 7,
+        "past": true
     },
     {
         "stared": false,
@@ -931,7 +932,8 @@
         "artistCategoryId": 6,
         "shortName": "it",
         "cbox": "https://www4.cbox.ws/box/?boxid=4327572&boxtag=Cf5HyA&tid=30&tkey=4485d31f01315ad3",
-        "sort": 5
+        "sort": 5,
+        "past": true
     },
     {
         "stared": false,
