@@ -56969,7 +56969,7 @@ s.e=t
 t.a.cC(new Q.a70(s))},
 u:function(){this.d.u()
 this.Qa()},
-F:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h=null,g="http://handel.ali.soundofbible.xyz/img/",f="http://handel.ali.soundofbible.xyz/img/144.png",e=Y.hh(a,!0,u.l),d=e.c,c=this.d
+F:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h=null,g="https://handel.ali.soundofbible.xyz/img/",f="http://handel.ali.soundofbible.xyz/img/144.png",e=Y.hh(a,!0,u.l),d=e.c,c=this.d
 if(d)c.cD(0)
 else c.k0(0,!1)
 t=J.N(e.r,e.f).b
@@ -57131,7 +57131,7 @@ t.aA()
 return J.N(t.r,t.f)},
 $iaD:1}
 L.a18.prototype={
-$1:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h="http://handel.ali.soundofbible.xyz/img/",g=1e6,f=this.a
+$1:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h="https://handel.ali.soundofbible.xyz/img/",g=1e6,f=this.a
 f.cx=a
 f.aA()
 if($.aeK()){t=J.N(f.r,f.f).b
@@ -57844,7 +57844,7 @@ t.w(0,new Q.vk(s.a.c.a))},
 u:function(){this.d.aG(0)
 this.aO()},
 F:function(a){var t,s=null,r=this.a.c,q=r.b,p=L.aq(q,s,s,s,s,s)
-r=U.W3(C.c.K("http://handel.ali.soundofbible.xyz/img/",r.d),C.bZ)
+r=U.W3(C.c.K("https://handel.ali.soundofbible.xyz/img/",r.d),C.bZ)
 t=u.t
 return M.iq(s,B.afQ(H.a([E.ahz(256,Z.agb(T.fF(C.aD,H.a([T.j7(r,q),new T.m9(P.Wb(10,10),M.ap(s,s,s,s,S.dd(s,s,s,P.aM(C.B.av(127.5),0,0,0),s,s,C.L),s,s,s,s,s,s),s),new M.i_(S.dd(s,s,s,s,T.F8(new K.ca(0,-1),H.a([new P.L(1610612736),new P.L(0)],u.it),new K.ca(0,-0.4),s,C.fw),s,C.L),C.c3,s,s)],t),C.i4),p),!0),O.hR(this.d,new U.a37(this),u.G0,u.Xg)],t)),s,T.RH(M.ap(s,new Y.hP(s),C.q,s,s,s,s,s,s,s,s)))}}
 U.a37.prototype={
@@ -57895,7 +57895,7 @@ $R:2,
 $S:329}
 Y.a3a.prototype={
 $2:function(a,b){var t=null,s=this.b,r=J.a6(s),q=r.h(s,b).b
-return V.ku(Q.pr(T.j7(K.RB(X.acp(C.c.K("http://handel.ali.soundofbible.xyz/img/",r.h(s,b).d)),t),q),new Y.a39(this.a,a,s,b),t,L.aq(H.b(r.h(s,b).b),t,t,t,t,t),t))},
+return V.ku(Q.pr(T.j7(K.RB(X.acp(C.c.K("https://handel.ali.soundofbible.xyz/img/",r.h(s,b).d)),t),q),new Y.a39(this.a,a,s,b),t,L.aq(H.b(r.h(s,b).b),t,t,t,t,t),t))},
 $C:"$2",
 $R:2,
 $S:33}
@@ -57950,7 +57950,7 @@ $C:"$2",
 $R:2,
 $S:330}
 S.a3f.prototype={
-$2:function(a,b){var t,s,r,q,p,o=null,n="http://handel.ali.soundofbible.xyz/img/",m="http://handel.ali.soundofbible.xyz/img/144.png",l=this.b,k=J.a6(l)
+$2:function(a,b){var t,s,r,q,p,o=null,n="https://handel.ali.soundofbible.xyz/img/",m="https://handel.ali.soundofbible.xyz/img/144.png",l=this.b,k=J.a6(l)
 if(k.h(l,b).f!=null){t=k.h(l,b).b!=null?k.h(l,b).b:C.c.K(J.fh(k.h(l,b).r,"-"),k.h(l,b).a)
 s=T.d2(H.a([new T.bl(new V.as(16,12,16,6),L.aq(t,o,o,o,K.ag(a,!1).y2.r,o),o),new T.bl(new V.as(16,6,16,12),L.aq(C.c.K(J.fh(k.h(l,b).r,"-"),k.h(l,b).a),o,o,o,K.ag(a,!1).y2.Q,o),o)],u.t),C.aF,C.O,C.J)}else s=k.h(l,b).b!=null?T.j7(L.aq(H.b(k.h(l,b).b),o,o,o,o,o),k.h(l,b).b):T.j7(L.aq(H.b(k.h(l,b).z),o,o,o,o,o),k.h(l,b).z)
 t=k.h(l,b).Q
@@ -57990,11 +57990,11 @@ A.q7.prototype={
 ac:function(){return new A.Nk(C.lj,C.j)},
 gR:function(){return this.c}}
 A.Nk.prototype={
-F:function(a){var t,s=null,r="http://handel.ali.soundofbible.xyz/img/",q=Y.hh(a,!0,u.l),p=q.c?this.d=C.lj:this.d=C.oX,o=P.bw(0,6e8,0,0),n=this.a.c
+F:function(a){var t,s=null,r="https://handel.ali.soundofbible.xyz/img/",q=Y.hh(a,!0,u.l),p=q.c?this.d=C.lj:this.d=C.oX,o=P.bw(0,6e8,0,0),n=this.a.c
 n=M.kZ(C.a0,!0,n!=null?n:R.jb(!1,!0,s,s,!0,s,s,s,s,s,s,s,s,s,new A.a8h(q,a),s),C.ak,s,0,s,C.q,s,s,C.cb)
 if(q.z!=null)t=J.N(q.r,q.f).fr!=null?J.N(q.r,q.f).fr:C.c.K(r,q.z.f)+".png"
 else{t=q.Q
-t=t!=null?C.c.K(r,t.d):"http://handel.ali.soundofbible.xyz/img/144.png"}return new K.oV(new R.at(0,360,u.Y),new A.a8i(),p,o,M.ap(s,n,s,s,S.dd(s,s,s,s,s,X.afX(C.bZ,X.acp(t),s),C.aW),s,s,s,s,s,s),s,u.AC)}}
+t=t!=null?C.c.K(r,t.d):"https://handel.ali.soundofbible.xyz/img/144.png"}return new K.oV(new R.at(0,360,u.Y),new A.a8i(),p,o,M.ap(s,n,s,s,S.dd(s,s,s,s,s,X.afX(C.bZ,X.acp(t),s),C.aW),s,s,s,s,s,s),s,u.AC)}}
 A.a8i.prototype={
 $3:function(a,b,c){return new T.qR(E.agE(c),C.m,!0,b,null)}}
 A.a8h.prototype={
@@ -58053,7 +58053,7 @@ else t.w(0,F.Ea(r,r,s,0,0,0,!1,!1))},
 u:function(){this.d.aG(0)
 this.aO()},
 F:function(a){var t,s,r,q,p,o=this,n=null,m=L.aq(C.c.K(" ",o.a.c.d),n,n,n,n,n),l=o.a.c,k=l.r
-l=U.W3(k!=null?"http://handel.ali.soundofbible.xyz/img/"+k:K.agn(74,l.d,195),C.bZ)
+l=U.W3(k!=null?"https://handel.ali.soundofbible.xyz/img/"+k:K.agn(74,l.d,195),C.bZ)
 k=P.Wb(10,10)
 t=M.ap(n,n,n,n,S.dd(n,n,n,P.aM(C.B.av(76.5),0,0,0),n,n,C.L),n,n,n,n,n,n)
 s=S.dd(n,n,n,n,T.F8(new K.ca(0,-1),H.a([new P.L(1610612736),new P.L(0)],u.it),new K.ca(0,-0.4),n,C.fw),n,C.L)
@@ -58116,7 +58116,7 @@ B.ox.prototype={
 MY:function(a){var t=u.H,s=V.ef(new B.Qc(this),null,t),r=a.cp(u.f)
 r.e3(s,t)},
 F:function(a){var t,s=null,r=this.c,q=r.r
-r=U.W3(q!=null?"http://handel.ali.soundofbible.xyz/img/"+q:K.agn(74,r.d,195),C.bZ)
+r=U.W3(q!=null?"https://handel.ali.soundofbible.xyz/img/"+q:K.agn(74,r.d,195),C.bZ)
 q=this.c
 t=u.t
 return V.ku(T.fF(C.aD,H.a([new T.aO(C.m,s,s,T.d2(H.a([r,new T.bl(new V.as(2,2,2,2),L.aq(q.d,s,s,s,A.bW(s,s,s,s,s,s,s,s,s,s,s,s,s,C.au,s,s,!0,s,s,s,s,s,s),s),s),new T.bl(new V.as(2,2,2,2),L.aq(q.e,1,s,s,K.ag(a,!1).y2.Q,s),s)],t),C.a2,C.O,C.jO),s),M.kZ(C.a0,!0,R.jb(!1,!0,s,s,!0,s,s,s,s,s,s,s,s,s,new B.Qb(this,a),s),C.ak,s,0,s,C.q,s,s,C.cb)],t),C.bE))}}
@@ -58410,7 +58410,7 @@ s.a.cC(new G.a4s(o))},
 u:function(){this.f.u()
 this.Q1()},
 Wh:function(a){this.aE(new G.a4q(this,a))},
-F:function(a){var t,s,r,q=this,p=null,o="http://handel.ali.soundofbible.xyz/img/144.png",n=Y.hh(a,!0,u.l),m=n.c,l=q.f
+F:function(a){var t,s,r,q=this,p=null,o="https://handel.ali.soundofbible.xyz/img/144.png",n=Y.hh(a,!0,u.l),m=n.c,l=q.f
 if(m)l.cD(0)
 else l.k0(0,!1)
 m=L.aq("\u826f\u53cb\u597d\u7267\u4eba",p,p,p,p,p)
@@ -58677,7 +58677,7 @@ O.y6.prototype={
 F:function(a){var t=null,s=this.c
 return M.iq(E.kn(t,t,!0,t,t,1,t,t,t,!1,t,t,t,!0,t,t,L.aq(H.b(s.b),t,t,t,t,t),16,1),new T.aO(C.m,t,t,E.adv(new T.bl(C.ad,new A.EG(s.ch,t),t),t,C.a3,t,C.o),t),t,t)}}
 G.nA.prototype={
-F:function(a){var t,s,r,q,p=this,o=null,n="http://handel.ali.soundofbible.xyz/img/",m="http://handel.ali.soundofbible.xyz/img/144.png",l=p.c,k=l.fr,j=k!=null,i=j?new T.bl(C.ad,K.RB(X.acp(k),o),o):M.ap(o,o,o,o,o,o,o,o,o,o,o),h=l.b,g=h!=null,f=g?h:C.c.K(J.fh(l.r,"-"),l.a)
+F:function(a){var t,s,r,q,p=this,o=null,n="https://handel.ali.soundofbible.xyz/img/",m="https://handel.ali.soundofbible.xyz/img/144.png",l=p.c,k=l.fr,j=k!=null,i=j?new T.bl(C.ad,K.RB(X.acp(k),o),o):M.ap(o,o,o,o,o,o,o,o,o,o,o),h=l.b,g=h!=null,f=g?h:C.c.K(J.fh(l.r,"-"),l.a)
 f=L.aq(f,o,o,o,K.ag(a,!1).y2.r,o)
 t=l.r
 s=J.fh(t,"-")
