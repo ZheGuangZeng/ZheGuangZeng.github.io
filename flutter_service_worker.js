@@ -3,9 +3,30 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "fa444c3c10772326900dad9737052d7b",
-"/": "fa444c3c10772326900dad9737052d7b",
+  "favicon-16x16.png": "258eae6d540db199bea8236b07d360b1",
+"favicon.ico": "96d476813ac0ae420dc3cbccad68b31d",
+"index.html": "88ea57623bdb55d9d328daf31c6a1d99",
+"/": "88ea57623bdb55d9d328daf31c6a1d99",
+"apple-icon.png": "a32aa2b08972bfa8b5146cdb5251e762",
+"apple-icon-144x144.png": "c36674f5cf23ec9d086c3ec2deb9c98e",
+"android-icon-192x192.png": "aae347d1bb79890c298d2cdd7d16f242",
+"apple-icon-precomposed.png": "a32aa2b08972bfa8b5146cdb5251e762",
+"apple-icon-114x114.png": "37762abf4fc35c50e0fd6d361fef7de7",
 "main.dart.js": "0ef63f7014316578522e5da647c60d75",
+"ms-icon-310x310.png": "5fd6228983f319f31f310f3a67c547c0",
+"ms-icon-144x144.png": "c36674f5cf23ec9d086c3ec2deb9c98e",
+"apple-icon-57x57.png": "d71a349c84454acd04008bdbc6241585",
+"apple-icon-152x152.png": "f2096149282c43e71d3ea62e358e710b",
+"ms-icon-150x150.png": "42681666a29c4a405b3021b9ade308cc",
+"android-icon-72x72.png": "c4559f54af96c4aa3d56e42e14ce1864",
+"android-icon-96x96.png": "830b40cbc7cf43273eebb256481043f5",
+"android-icon-36x36.png": "47f781d76f8fec30a6da4d3d38283c18",
+"apple-icon-180x180.png": "9c802e4d01edd8de1e39c1be461799dd",
+"favicon-96x96.png": "830b40cbc7cf43273eebb256481043f5",
+"manifest.json": "b58fcfa7628c9205cb11a1b2c3e8f99a",
+"android-icon-48x48.png": "c37ddd7975fa193443bdb8605dc003ad",
+"apple-icon-76x76.png": "bdd66b41bac84f8f6aa4be83699ccfa6",
+"apple-icon-60x60.png": "db4b3f0f651912a8c19a25459bbc1af3",
 "assets/AssetManifest.json": "ee503b2bd93604127c128a601e60fc58",
 "assets/NOTICES": "3189320c8d222ac98d0903235bc2e11b",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
@@ -25,7 +46,13 @@ const RESOURCES = {
 "assets/assets/albumCategory.json": "31856697b301ea97942747fe44b979a0",
 "assets/assets/bible_esv_songs.json": "310fe6ea5b9fcce4f66c93e3072e520f",
 "assets/assets/bible_haomuren_songs.json": "0bd644856c5745e9b830c06b6211efa0",
-"assets/assets/albums_hmr_otg.json": "7c1290c97eba94e6aa711c3e8812ab85"
+"assets/assets/albums_hmr_otg.json": "7c1290c97eba94e6aa711c3e8812ab85",
+"browserconfig.xml": "653d077300a12f09a69caeea7a8947f8",
+"android-icon-144x144.png": "c36674f5cf23ec9d086c3ec2deb9c98e",
+"apple-icon-72x72.png": "c4559f54af96c4aa3d56e42e14ce1864",
+"apple-icon-120x120.png": "2e993f256dd0c13d97f95114a8beba19",
+"favicon-32x32.png": "25aa0557172f497ed5417d12f63a3bde",
+"ms-icon-70x70.png": "39fb6857d870cb8d5f260dc6de1db211"
 };
 
 // The application shell files that are downloaded before a service worker can
