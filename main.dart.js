@@ -13038,22 +13038,22 @@ this.b=a
 this.c=null},
 a6C:function a6C(){},
 ahz:function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q){return new F.ei(p,q,j,n,d,e,a,b,c,l,o,k,h,f,m)},
-adu:function(a4){var t,s,r,q,p,o,n,m,l,k,j,i,h,g="https://rawcdn.githack.com/quiet324/HMR/190220/",f="http://media.haomuren.org/",e="http://febc.soundofbible.xyz/",d="https://rawcdn.githack.com/quiet324/HMR/181107/",c="https://rawcdn.githack.com/quiet324/BibleResourceEsv/190228/",b="https://rawcdn.githack.com/quiet324/BibleResourceHaoMuRen/180701/",a="https://rawcdn.githack.com/quiet324/LYSA/180713/",a0="https://liangyoult.com/",a1=null,a2=J.a6(a4),a3=H.ay(a2.h(a4,"path"))
+adu:function(a4){var t,s,r,q,p,o,n,m,l,k,j,i,h,g="https://rawcdn.githack.com/quiet324/HMR/190220/",f="http://media.haomuren.org/",e="https://rawcdn.githack.com/quiet324/HMR/181107/",d="https://rawcdn.githack.com/quiet324/BibleResourceEsv/190228/",c="https://rawcdn.githack.com/quiet324/BibleResourceHaoMuRen/180701/",b="https://rawcdn.githack.com/quiet324/LYSA/180713/",a="https://liangyoult.com/",a0=null,a1="https://febc.soundofbible.xyz/",a2=J.a6(a4),a3=H.ay(a2.h(a4,"path"))
 if(J.bN(a3).aT(a3,g))a3=C.c.ec(a3,g,"https://handel.ali.soundofbible.xyz/edzj/")
-else if(C.c.aT(a3,"http://media.haomuren.org/dev/"))a3=C.c.ec(a3,f,e)
-else if(C.c.aT(a3,"http://media.haomuren.org/devotion/"))a3=C.c.ec(a3,f,e)
-else if(C.c.aT(a3,"http://media.haomuren.org/Devotion/"))a3=C.c.ec(a3,f,e)
-else if(C.c.aT(a3,d))a3=C.c.ec(a3,d,"https://handel.ali.soundofbible.xyz/hmrotg/Message/")
-else if(C.c.aT(a3,c))a3=C.c.ec(a3,c,"https://handel.ali.soundofbible.xyz/bible/")
-else if(C.c.aT(a3,b))a3=C.c.ec(a3,b,"https://haomuren-1253798207.file.myqcloud.com/")
+else if(C.c.aT(a3,"http://media.haomuren.org/dev/"))a3=C.c.ec(a3,f,a1)
+else if(C.c.aT(a3,"http://media.haomuren.org/devotion/"))a3=C.c.ec(a3,f,a1)
+else if(C.c.aT(a3,"http://media.haomuren.org/Devotion/"))a3=C.c.ec(a3,f,a1)
+else if(C.c.aT(a3,e))a3=C.c.ec(a3,e,"https://handel.ali.soundofbible.xyz/hmrotg/Message/")
+else if(C.c.aT(a3,d))a3=C.c.ec(a3,d,"https://handel.ali.soundofbible.xyz/bible/")
+else if(C.c.aT(a3,c))a3=C.c.ec(a3,c,"https://haomuren-1253798207.file.myqcloud.com/")
 else if(C.c.aT(a3,"http://txly2.net/ly/audio/2016/dp/")||C.c.aT(a3,"http://txly2.net/ly/audio/2015/dp/")){t=C.c.X(a3,0,C.c.fl(a3,"/"))
 a3=C.c.ec(a3,t,"https://febc-1253798207.file.myqcloud.com/dp")}else if(C.c.aT(a3,"https://rawcdn.githack.com/quiet324/LiangYouRadioResource20"))if(C.c.A(a3,"mm20")){t=C.c.X(a3,0,C.c.fl(a3,"/"))
 a3=C.c.ec(a3,t,"https://febc-1253798207.file.myqcloud.com/mm")}else{t=C.c.X(a3,0,C.c.fl(a3,"/"))
 a3=C.c.ec(a3,t,"https://dailyaudio-1253798207.file.myqcloud.com")}else if(C.c.aT(a3,"http://audio.lyzhendao.net")){t=C.c.X(a3,0,C.c.fl(a3,"/"))
-a3=C.c.ec(a3,t,"https://handel.ali.soundofbible.xyz/ZDFJ")}else if(C.c.aT(a3,a))a3=C.c.ec(a3,a,"http://dl.soundofbible.xyz/lyotg/")
-else if(C.c.aT(a3,a0)){s=J.hO(H.ay(a2.h(a4,"title")),0,2)
-if(H.x7(s,a1)!=null&&H.x7(s,a1)>=18&&C.c.bQ(a3,"vof")===-1){t=C.c.X(a3,0,C.c.fl(a3,"/"))
-a3=C.c.ec(a3,t,"https://dailyaudio-1253798207.file.myqcloud.com/")}else a3=C.c.ec(a3,a0,"https://febc-1253798207.file.myqcloud.com/")}a3=P.Bd(C.iQ,a3,C.ac,!1)
+a3=C.c.ec(a3,t,"https://handel.ali.soundofbible.xyz/ZDFJ")}else if(C.c.aT(a3,b))a3=C.c.ec(a3,b,"https://dl.soundofbible.xyz/lyotg/")
+else if(C.c.aT(a3,a)){s=J.hO(H.ay(a2.h(a4,"title")),0,2)
+if(H.x7(s,a0)!=null&&H.x7(s,a0)>=18&&C.c.bQ(a3,"vof")===-1){t=C.c.X(a3,0,C.c.fl(a3,"/"))
+a3=C.c.ec(a3,t,"https://dailyaudio-1253798207.file.myqcloud.com/")}else a3=C.c.ec(a3,a,"https://febc-1253798207.file.myqcloud.com/")}a3=P.Bd(C.iQ,a3,C.ac,!1)
 r=H.ay(a2.h(a4,"wx"))
 if(r!=null)a3="https://res.wx.qq.com/voice/getvoice?mediaid="+r
 q=H.aP(a2.h(a4,"id"))
@@ -13066,7 +13066,7 @@ k=H.ay(a2.h(a4,"downUrl"))
 j=H.ay(a2.h(a4,"size"))
 i=H.ay(a2.h(a4,"time"))
 h=H.ay(a2.h(a4,"title"))
-return F.ahz(H.aP(a2.h(a4,"albumId")),H.ay(a2.h(a4,"albumName")),H.ay(a2.h(a4,"albumtitle")),m,l,o,n,p,k,a1,q,a3,a1,j,H.ay(a2.h(a4,"textContent")),i,h)},
+return F.ahz(H.aP(a2.h(a4,"albumId")),H.ay(a2.h(a4,"albumName")),H.ay(a2.h(a4,"albumtitle")),m,l,o,n,p,k,a0,q,a3,a0,j,H.ay(a2.h(a4,"textContent")),i,h)},
 ei:function ei(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o){var _=this
 _.a=a
 _.b=b
