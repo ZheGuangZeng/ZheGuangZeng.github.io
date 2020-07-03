@@ -13039,16 +13039,16 @@ this.c=null},
 a6C:function a6C(){},
 ahz:function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q){return new F.ei(p,q,j,n,d,e,a,b,c,l,o,k,h,f,m)},
 adu:function(a3){var t,s,r,q,p,o,n,m,l,k,j,i,h="https://rawcdn.githack.com/quiet324/HMR/190220/",g="http://media.haomuren.org/",f="http://febc.soundofbible.xyz/",e="https://rawcdn.githack.com/quiet324/HMR/181107/",d="https://rawcdn.githack.com/quiet324/BibleResourceEsv/190228/",c="https://rawcdn.githack.com/quiet324/BibleResourceHaoMuRen/180701/",b="https://rawcdn.githack.com/quiet324/LYSA/180713/",a="https://liangyoult.com/",a0=null,a1=J.a6(a3),a2=H.ay(a1.h(a3,"path"))
-if(J.bN(a2).aT(a2,h))a2=C.c.ec(a2,h,"http://handel.ali.soundofbible.xyz/edzj/")
+if(J.bN(a2).aT(a2,h))a2=C.c.ec(a2,h,"https://handel.ali.soundofbible.xyz/edzj/")
 else if(C.c.aT(a2,"http://media.haomuren.org/dev/"))a2=C.c.ec(a2,g,f)
 else if(C.c.aT(a2,"http://media.haomuren.org/devotion/"))a2=C.c.ec(a2,g,f)
 else if(C.c.aT(a2,"http://media.haomuren.org/Devotion/"))a2=C.c.ec(a2,g,f)
-else if(C.c.aT(a2,e))a2=C.c.ec(a2,e,"http://handel.ali.soundofbible.xyz/hmrotg/Message/")
-else if(C.c.aT(a2,d))a2=C.c.ec(a2,d,"http://handel.ali.soundofbible.xyz/bible/")
+else if(C.c.aT(a2,e))a2=C.c.ec(a2,e,"https://handel.ali.soundofbible.xyz/hmrotg/Message/")
+else if(C.c.aT(a2,d))a2=C.c.ec(a2,d,"https://handel.ali.soundofbible.xyz/bible/")
 else if(C.c.aT(a2,c))a2=C.c.ec(a2,c,"https://haomuren-1253798207.file.myqcloud.com/")
 else if(C.c.aT(a2,"http://txly2.net/ly/audio/2016/dp/")||C.c.aT(a2,"http://txly2.net/ly/audio/2015/dp/"))a2=C.c.ec(a2,C.c.X(a2,0,C.c.fl(a2,"/")),"https://febc-1253798207.file.myqcloud.com/dp")
 else if(C.c.aT(a2,"https://rawcdn.githack.com/quiet324/LiangYouRadioResource20"))a2=C.c.A(a2,"mm20")?C.c.ec(a2,C.c.X(a2,0,C.c.fl(a2,"/")),"https://febc-1253798207.file.myqcloud.com/mm"):C.c.ec(a2,C.c.X(a2,0,C.c.fl(a2,"/")),"https://dailyaudio-1253798207.file.myqcloud.com")
-else if(C.c.aT(a2,"http://audio.lyzhendao.net"))a2=C.c.ec(a2,C.c.X(a2,0,C.c.fl(a2,"/")),"http://handel.ali.soundofbible.xyz/ZDFJ")
+else if(C.c.aT(a2,"http://audio.lyzhendao.net"))a2=C.c.ec(a2,C.c.X(a2,0,C.c.fl(a2,"/")),"https://handel.ali.soundofbible.xyz/ZDFJ")
 else if(C.c.aT(a2,b))a2=C.c.ec(a2,b,"http://dl.soundofbible.xyz/lyotg/")
 else if(C.c.aT(a2,a)){t=J.hO(H.ay(a1.h(a3,"title")),0,2)
 a2=H.x7(t,a0)!=null&&H.x7(t,a0)>=18&&C.c.bQ(a2,"vof")===-1?C.c.ec(a2,C.c.X(a2,0,C.c.fl(a2,"/")),"https://dailyaudio-1253798207.file.myqcloud.com/"):C.c.ec(a2,a,"https://febc-1253798207.file.myqcloud.com/")}a2=P.Bd(C.iP,a2,C.ac,!1)
@@ -56974,7 +56974,7 @@ s.e=t
 t.a.cC(new Q.a6W(s))},
 u:function(){this.d.u()
 this.Qa()},
-F:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h=null,g="https://handel.ali.soundofbible.xyz/img/",f="http://handel.ali.soundofbible.xyz/img/144.png",e=Y.hi(a,!0,u.l),d=e.c,c=this.d
+F:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h=null,g="https://handel.ali.soundofbible.xyz/img/",f="https://handel.ali.soundofbible.xyz/img/144.png",e=Y.hi(a,!0,u.l),d=e.c,c=this.d
 if(d)c.cD(0)
 else c.k0(0,!1)
 t=J.N(e.r,e.f).b
@@ -57151,7 +57151,7 @@ n.Nf()
 m=q!=null&&q.length!==0?H.b(q)+"-"+H.b(p):H.b(r)
 if(f.z!=null)f=J.N(f.r,f.f).fr!=null?J.N(f.r,f.f).fr:C.c.P(h,f.z.f)+".png"
 else{f=f.Q
-f=f!=null?C.c.P(h,f.d):"http://handel.ali.soundofbible.xyz/img/144.png"}l=P.bQ(0,0,0,30)
+f=f!=null?C.c.P(h,f.d):"https://handel.ali.soundofbible.xyz/img/144.png"}l=P.bQ(0,0,0,30)
 k=P.bQ(0,0,0,30)
 j=P.bQ(0,0,0,0)
 if(f==null)f=""
@@ -58680,7 +58680,7 @@ $S:0}
 Y.y_.prototype={
 F:function(a){return Z.ah5(C.Cn,new Y.a0z(this),new Y.a0A(this,a),C.au,u.Sc)}}
 Y.a0A.prototype={
-$1:function(a){var t,s,r="http://handel.ali.soundofbible.xyz/img/144.png",q="https://android.myapp.com/myapp/detail.htm?apkName=top.soundofbible.hmrotg"
+$1:function(a){var t,s,r="https://handel.ali.soundofbible.xyz/img/144.png",q="https://android.myapp.com/myapp/detail.htm?apkName=top.soundofbible.hmrotg"
 P.cO(a)
 t=this.a
 if(t.y){t=D.ai3(r,".jpeg",".txt")
