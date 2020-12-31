@@ -3,35 +3,20 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "favicon-16x16.png": "258eae6d540db199bea8236b07d360b1",
-"favicon.ico": "96d476813ac0ae420dc3cbccad68b31d",
-"index.html": "88ea57623bdb55d9d328daf31c6a1d99",
-"/": "88ea57623bdb55d9d328daf31c6a1d99",
-"apple-icon.png": "a32aa2b08972bfa8b5146cdb5251e762",
-"apple-icon-144x144.png": "c36674f5cf23ec9d086c3ec2deb9c98e",
-"android-icon-192x192.png": "aae347d1bb79890c298d2cdd7d16f242",
-"apple-icon-precomposed.png": "a32aa2b08972bfa8b5146cdb5251e762",
-"apple-icon-114x114.png": "37762abf4fc35c50e0fd6d361fef7de7",
-"main.dart.js": "fb7e7312cb954fe7b347ada49be8a9b0",
-"ms-icon-310x310.png": "5fd6228983f319f31f310f3a67c547c0",
-"ms-icon-144x144.png": "c36674f5cf23ec9d086c3ec2deb9c98e",
-"apple-icon-57x57.png": "d71a349c84454acd04008bdbc6241585",
-"apple-icon-152x152.png": "f2096149282c43e71d3ea62e358e710b",
-"ms-icon-150x150.png": "42681666a29c4a405b3021b9ade308cc",
-"android-icon-72x72.png": "c4559f54af96c4aa3d56e42e14ce1864",
-"android-icon-96x96.png": "830b40cbc7cf43273eebb256481043f5",
-"android-icon-36x36.png": "47f781d76f8fec30a6da4d3d38283c18",
-"apple-icon-180x180.png": "9c802e4d01edd8de1e39c1be461799dd",
-"favicon-96x96.png": "830b40cbc7cf43273eebb256481043f5",
-"manifest.json": "b58fcfa7628c9205cb11a1b2c3e8f99a",
-"android-icon-48x48.png": "c37ddd7975fa193443bdb8605dc003ad",
-"apple-icon-76x76.png": "bdd66b41bac84f8f6aa4be83699ccfa6",
-"apple-icon-60x60.png": "db4b3f0f651912a8c19a25459bbc1af3",
-"assets/AssetManifest.json": "ee503b2bd93604127c128a601e60fc58",
-"assets/NOTICES": "83855df640a4d7dd372e8cce103b8c3f",
-"assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
+  "version.json": "623aaf9af883c1dd8c0bb2fff1e813ae",
+"index.html": "c610abd2bc85f7360fdf31f57e9e110d",
+"/": "c610abd2bc85f7360fdf31f57e9e110d",
+"main.dart.js": "c098816a875e75d81b2c670e0e2a98e3",
+"favicon.png": "96d476813ac0ae420dc3cbccad68b31d",
+"icons/Icon-192.png": "aae347d1bb79890c298d2cdd7d16f242",
+"icons/Icon-512.png": "75dbf18e3e8ab9baa9c6937d5b0e4b2b",
+"manifest.json": "6d6afcc66ab7ac633059a6821c17065b",
+"assets/AssetManifest.json": "e9aeaeae5b8a831447b6e889757f86fb",
+"assets/NOTICES": "6cbdd57cf61a2e858c4a467eeabb64ab",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
+"assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
+"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/assets/albums_other.json": "c436fc9d3d6c2791e04d555733aa945e",
 "assets/assets/bible_esv_albums.json": "1fcd4b91f115f39caed27c3f9dbdbc0a",
 "assets/assets/albums_ly_otg.json": "049587083218b7bb06b05d17ba84d001",
@@ -43,16 +28,10 @@ const RESOURCES = {
 "assets/assets/bible_haomuren_albums.json": "f83fd10ec4d5183a2cc4552871e041bd",
 "assets/assets/artistCategory.json": "edffe69723f2c29285e1b0a8afb6ce4f",
 "assets/assets/albums_zdfj.json": "6fd308a099ff5a974f6610005e7bd666",
-"assets/assets/albumCategory.json": "02a20648fd5cd69ab2cde668dec40529",
+"assets/assets/albumCategory.json": "5c268ad2ba37141d54e210d296fcee25",
 "assets/assets/bible_esv_songs.json": "310fe6ea5b9fcce4f66c93e3072e520f",
 "assets/assets/bible_haomuren_songs.json": "0bd644856c5745e9b830c06b6211efa0",
-"assets/assets/albums_hmr_otg.json": "7c1290c97eba94e6aa711c3e8812ab85",
-"browserconfig.xml": "653d077300a12f09a69caeea7a8947f8",
-"android-icon-144x144.png": "c36674f5cf23ec9d086c3ec2deb9c98e",
-"apple-icon-72x72.png": "c4559f54af96c4aa3d56e42e14ce1864",
-"apple-icon-120x120.png": "2e993f256dd0c13d97f95114a8beba19",
-"favicon-32x32.png": "25aa0557172f497ed5417d12f63a3bde",
-"ms-icon-70x70.png": "39fb6857d870cb8d5f260dc6de1db211"
+"assets/assets/albums_hmr_otg.json": "7c1290c97eba94e6aa711c3e8812ab85"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -61,16 +40,16 @@ const CORE = [
   "/",
 "main.dart.js",
 "index.html",
-"assets/LICENSE",
+"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
-
 // During install, the TEMP cache is populated with the application shell files.
 self.addEventListener("install", (event) => {
+  self.skipWaiting();
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
-      // Provide a no-cache param to ensure the latest version is downloaded.
-      return cache.addAll(CORE.map((value) => new Request(value, {'cache': 'no-cache'})));
+      return cache.addAll(
+        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
     })
   );
 });
@@ -85,7 +64,6 @@ self.addEventListener("activate", function(event) {
       var tempCache = await caches.open(TEMP);
       var manifestCache = await caches.open(MANIFEST);
       var manifest = await manifestCache.match('manifest');
-
       // When there is no prior manifest, clear the entire cache.
       if (!manifest) {
         await caches.delete(CACHE_NAME);
@@ -99,7 +77,6 @@ self.addEventListener("activate", function(event) {
         await manifestCache.put('manifest', new Response(JSON.stringify(RESOURCES)));
         return;
       }
-
       var oldManifest = await manifest.json();
       var origin = self.location.origin;
       for (var request of await contentCache.keys()) {
@@ -137,24 +114,33 @@ self.addEventListener("activate", function(event) {
 // The fetch handler redirects requests for RESOURCE files to the service
 // worker cache.
 self.addEventListener("fetch", (event) => {
+  if (event.request.method !== 'GET') {
+    return;
+  }
   var origin = self.location.origin;
   var key = event.request.url.substring(origin.length + 1);
   // Redirect URLs to the index.html
-  if (event.request.url == origin || event.request.url.startsWith(origin + '/#')) {
+  if (key.indexOf('?v=') != -1) {
+    key = key.split('?v=')[0];
+  }
+  if (event.request.url == origin || event.request.url.startsWith(origin + '/#') || key == '') {
     key = '/';
   }
-  // If the URL is not the the RESOURCE list, skip the cache.
+  // If the URL is not the RESOURCE list then return to signal that the
+  // browser should take over.
   if (!RESOURCES[key]) {
-    return event.respondWith(fetch(event.request));
+    return;
+  }
+  // If the URL is the index.html, perform an online-first request.
+  if (key == '/') {
+    return onlineFirst(event);
   }
   event.respondWith(caches.open(CACHE_NAME)
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache. Ensure the resources are not cached
-        // by the browser for longer than the service worker expects.
-        var modifiedRequest = new Request(event.request, {'cache': 'no-cache'});
-        return response || fetch(modifiedRequest).then((response) => {
+        // lazily populate the cache.
+        return response || fetch(event.request).then((response) => {
           cache.put(event.request, response.clone());
           return response;
         });
@@ -166,12 +152,13 @@ self.addEventListener("fetch", (event) => {
 self.addEventListener('message', (event) => {
   // SkipWaiting can be used to immediately activate a waiting service worker.
   // This will also require a page refresh triggered by the main worker.
-  if (event.message == 'skipWaiting') {
-    return self.skipWaiting();
+  if (event.data === 'skipWaiting') {
+    self.skipWaiting();
+    return;
   }
-
-  if (event.message = 'downloadOffline') {
+  if (event.data === 'downloadOffline') {
     downloadOffline();
+    return;
   }
 });
 
@@ -190,8 +177,30 @@ async function downloadOffline() {
   }
   for (var resourceKey in Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
-      resources.add(resourceKey);
+      resources.push(resourceKey);
     }
   }
-  return Cache.addAll(resources);
+  return contentCache.addAll(resources);
+}
+
+// Attempt to download the resource online before falling back to
+// the offline cache.
+function onlineFirst(event) {
+  return event.respondWith(
+    fetch(event.request).then((response) => {
+      return caches.open(CACHE_NAME).then((cache) => {
+        cache.put(event.request, response.clone());
+        return response;
+      });
+    }).catch((error) => {
+      return caches.open(CACHE_NAME).then((cache) => {
+        return cache.match(event.request).then((response) => {
+          if (response != null) {
+            return response;
+          }
+          throw error;
+        });
+      });
+    })
+  );
 }

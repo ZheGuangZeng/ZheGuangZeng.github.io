@@ -1,4 +1,5 @@
-[{
+[
+    {
         "id": 1,
         "name": "信仰人生",
         "image": "album_category_1_art_faith_life.png",
@@ -739,7 +740,6 @@
         "desc": "",
         "image": "otg_jiangtai.png"
     },
-
     {
         "id": 6000,
         "name": "彩虹桥-往期节目",
@@ -763,146 +763,109 @@
         "name": "认识你真好-往期节目",
         "desc": "",
         "image": "vof.png"
-    }
-
-    ,
+    },
     {
         "id": 6004,
         "name": "亲情不断电-往期节目",
         "desc": "",
         "image": "up.png"
-    }
-
-    ,
+    },
     {
         "id": 6005,
         "name": "拥抱每一天-往期节目",
         "desc": "",
         "image": "ee.png"
-    }
-
-
-    ,
+    },
     {
         "id": 6006,
         "name": "旷野吗哪-往期节目",
         "desc": "",
         "image": "mw.png"
-    }
-
-    ,
+    },
     {
         "id": 6007,
         "name": "津津乐道-往期节目",
         "desc": "",
         "image": "sg.png"
-    }
-
-    ,
+    },
     {
         "id": 6008,
         "name": "绝妙当家-往期节目",
         "desc": "",
         "image": "yu.png"
-    }
-
-    ,
+    },
     {
         "id": 6009,
         "name": "空中辅导-往期节目",
         "desc": "",
         "image": "cc.png"
-    }
-
-    ,
+    },
     {
         "id": 6010,
         "name": "恋爱季节-往期节目",
         "desc": "",
         "image": "se.png"
-    }
-
-    ,
+    },
     {
         "id": 6011,
         "name": "空中崇拜-往期节目",
         "desc": "",
         "image": "aw.png"
-    }
-
-    ,
+    },
     {
         "id": 6012,
         "name": "生命的四季-往期节目",
         "desc": "",
         "image": "ns.png"
-    }
-
-    ,
+    },
     {
         "id": 6013,
         "name": "经动人心-往期节目",
         "desc": "",
         "image": "ba.png"
-    }
-
-    ,
+    },
     {
         "id": 6014,
         "name": "现代人的希望-往期节目",
         "desc": "",
         "image": "gn.png"
-    }
-
-    ,
+    },
     {
         "id": 6015,
         "name": "欢乐卡恰碰-往期节目",
         "desc": "",
         "image": "hg.png"
-    }
-
-    ,
+    },
     {
         "id": 6016,
         "name": "齐来颂扬-往期节目",
         "desc": "",
         "image": "cw.png"
-    }
-
-    ,
+    },
     {
         "id": 6018,
         "name": "长夜的牵引-往期节目",
         "desc": "",
         "image": "ws.png"
-    }
-
-    ,
+    },
     {
         "id": 6019,
         "name": "聆听主道-往期节目",
         "desc": "",
         "image": "hw.png"
-    }
-
-    ,
+    },
     {
         "id": 6020,
         "name": "生命的福音-往期节目",
         "desc": "",
         "image": "gl.png"
-    }
-
-    ,
+    },
     {
         "id": 6021,
         "name": "好牧人-往期节目",
         "desc": "",
         "image": "gsa.png"
-    }
-
-    ,
+    },
     {
         "id": 6022,
         "name": "圣言盛宴-往期节目",
@@ -926,5 +889,95 @@
         "name": "这一刻，清心-往期节目",
         "desc": "",
         "image": "mp.png"
+    },
+    {
+        "id": 6027,
+        "name": "书香园地",
+        "desc": "",
+        "image": "bc.png"
+    },
+    {
+        "id": 6028,
+        "name": "施恩座前",
+        "desc": "",
+        "image": "tg.png"
+    },
+    {
+        "id": 6029,
+        "name": "天使夜未眠",
+        "desc": "",
+        "image": "ka.png"
+    },
+    {
+        "id": 6030,
+        "name": "燃亮的一生",
+        "desc": "",
+        "image": "ls.png"
+    },
+    {
+        "id": 6032,
+        "name": "无限飞行号",
+        "desc": "",
+        "image": "ib.png"
+    },
+    {
+        "id": 6033,
+        "name": "晨曦讲座",
+        "desc": "",
+        "image": "ds.png"
+    },
+    {
+        "id": 6034,
+        "name": "星动一刻",
+        "desc": "",
+        "image": "hp.png"
+    },
+    {
+        "id": 6035,
+        "name": "穿越圣经",
+        "desc": "",
+        "image": "ttb.png"
+    },
+    {
+        "id": 6036,
+        "name": "穿越圣经（粤语）",
+        "desc": "",
+        "image": "cttb.png"
+    },
+    {
+        "id": 6037,
+        "name": "跟祢脚踪",
+        "desc": "",
+        "image": "dt.png"
+    },
+    {
+        "id": 6038,
+        "name": "我们的时间",
+        "desc": "",
+        "image": "ut.png"
+    },
+    {
+        "id": 6039,
+        "name": "接棒人",
+        "desc": "",
+        "image": "pb.png"
+    },
+    {
+        "id": 6040,
+        "name": "微播出炉",
+        "desc": "",
+        "image": "fc.png"
+    },
+    {
+        "id": 6041,
+        "name": "生活之光",
+        "desc": "",
+        "image": "iv.png"
+    },
+    {
+        "id": 6042,
+        "name": "献上今天",
+        "desc": "",
+        "image": "dy.png"
     }
 ]
