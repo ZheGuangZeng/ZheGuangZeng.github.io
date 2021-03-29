@@ -4,17 +4,17 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "623aaf9af883c1dd8c0bb2fff1e813ae",
-"index.html": "c610abd2bc85f7360fdf31f57e9e110d",
-"/": "c610abd2bc85f7360fdf31f57e9e110d",
-"main.dart.js": "c098816a875e75d81b2c670e0e2a98e3",
+"index.html": "911404a0b7a30d5d3fba420a936247bb",
+"/": "911404a0b7a30d5d3fba420a936247bb",
+"main.dart.js": "68f416122f56909835221e8dd7455c6e",
 "favicon.png": "96d476813ac0ae420dc3cbccad68b31d",
 "icons/Icon-192.png": "aae347d1bb79890c298d2cdd7d16f242",
 "icons/Icon-512.png": "75dbf18e3e8ab9baa9c6937d5b0e4b2b",
-"manifest.json": "6d6afcc66ab7ac633059a6821c17065b",
+"manifest.json": "7a89db29c7bba32145ec4f61aec2b4c3",
 "assets/AssetManifest.json": "e9aeaeae5b8a831447b6e889757f86fb",
-"assets/NOTICES": "6cbdd57cf61a2e858c4a467eeabb64ab",
+"assets/NOTICES": "d3fc6f43e56afe5fc2c8a69cdf4d992d",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/assets/albums_other.json": "c436fc9d3d6c2791e04d555733aa945e",
@@ -26,12 +26,12 @@ const RESOURCES = {
 "assets/assets/bible_chapter.json": "b1ad6b03b65c2f8f627e029fac039b3f",
 "assets/assets/bible_book.json": "7da8cb1133e28c3c3282c29c4b1d8516",
 "assets/assets/bible_haomuren_albums.json": "f83fd10ec4d5183a2cc4552871e041bd",
-"assets/assets/artistCategory.json": "edffe69723f2c29285e1b0a8afb6ce4f",
+"assets/assets/artistCategory.json": "dfb69b9473945c3c1e0ccd74c1b838b6",
 "assets/assets/albums_zdfj.json": "6fd308a099ff5a974f6610005e7bd666",
 "assets/assets/albumCategory.json": "5c268ad2ba37141d54e210d296fcee25",
 "assets/assets/bible_esv_songs.json": "310fe6ea5b9fcce4f66c93e3072e520f",
 "assets/assets/bible_haomuren_songs.json": "0bd644856c5745e9b830c06b6211efa0",
-"assets/assets/albums_hmr_otg.json": "7c1290c97eba94e6aa711c3e8812ab85"
+"assets/assets/albums_hmr_otg.json": "174ef9e37ea1e9e8f42d2f2da4f46e73"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -175,7 +175,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }

@@ -1,4 +1,5 @@
-[{
+[
+    {
         "stared": false,
         "duration": 300,
         "size": "1M",
@@ -1070,9 +1071,238 @@
         "albumCategoryId": 4002,
         "shortName": "TrHeresy",
         "id": 10054
-    }
-
-    ,
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "信心见证人系列",
+        "description": "",
+        "songCount": 12,
+        "albumCategoryId": 4002,
+        "shortName": "FaithWtn",
+        "id": 10055
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "神人关系系列",
+        "description": "",
+        "songCount": 10,
+        "albumCategoryId": 4002,
+        "shortName": "GodHum",
+        "id": 10056
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "苦难中隐藏的珍宝",
+        "description": "",
+        "songCount": 16,
+        "albumCategoryId": 4002,
+        "shortName": "Gem",
+        "id": 10057
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "义人系列",
+        "description": "",
+        "songCount": 18,
+        "albumCategoryId": 4002,
+        "shortName": "Right",
+        "id": 10058
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "圣徒的追求",
+        "description": "",
+        "songCount": 16,
+        "albumCategoryId": 4002,
+        "shortName": "Saint",
+        "id": 10059
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "基督教伦理学",
+        "description": "",
+        "songCount": 10,
+        "albumCategoryId": 4002,
+        "shortName": "Ethic",
+        "id": 10060
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "培灵讲座系列",
+        "description": "",
+        "songCount": 12,
+        "albumCategoryId": 4002,
+        "shortName": "SprLife",
+        "id": 10061
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "生活与祷告系列",
+        "description": "",
+        "songCount": 18,
+        "albumCategoryId": 4002,
+        "shortName": "LifePr",
+        "id": 10062
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "祷告系列",
+        "description": "",
+        "songCount": 12,
+        "albumCategoryId": 4002,
+        "shortName": "Prayer",
+        "id": 10063
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "靈命塑造系列",
+        "description": "",
+        "songCount": 15,
+        "albumCategoryId": 4002,
+        "shortName": "SprGrwth",
+        "id": 10064
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "教会合一系列",
+        "description": "",
+        "songCount": 12,
+        "albumCategoryId": 4002,
+        "shortName": "ChUnity",
+        "id": 10065
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "合神心意系列",
+        "description": "",
+        "songCount": 6,
+        "albumCategoryId": 4002,
+        "shortName": "GodMind",
+        "id": 10066
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "异端论系列",
+        "description": "",
+        "songCount": 13,
+        "albumCategoryId": 4002,
+        "shortName": "Cult1",
+        "id": 10067
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "灵修神学简介",
+        "description": "",
+        "songCount": 16,
+        "albumCategoryId": 4002,
+        "shortName": "Sprtheo",
+        "id": 10068
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "出埃及記系列二",
+        "description": "",
+        "songCount": 45,
+        "albumCategoryId": 4000,
+        "shortName": "Ex2",
+        "id": 10069
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "阿摩司书系列",
+        "description": "",
+        "songCount": 16,
+        "albumCategoryId": 4000,
+        "shortName": "Amos1",
+        "id": 10070
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "民數記導讀",
+        "description": "",
+        "songCount": 40,
+        "albumCategoryId": 4000,
+        "shortName": "Nu1",
+        "id": 10071
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "马太福音二",
+        "description": "",
+        "songCount": 52,
+        "albumCategoryId": 4001,
+        "shortName": "MT2",
+        "id": 10072
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "希伯来书二",
+        "description": "",
+        "songCount": 49,
+        "albumCategoryId": 4001,
+        "shortName": "Heb2",
+        "id": 10073
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "从启示录的七教会谈今日的华人教会",
+        "description": "",
+        "songCount": 15,
+        "albumCategoryId": 4001,
+        "shortName": "Rev1",
+        "id": 10074
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "雅各书二",
+        "description": "",
+        "songCount": 12,
+        "albumCategoryId": 4001,
+        "shortName": "Jas2",
+        "id": 10075
+    },
     {
         "stared": false,
         "duration": 500,
@@ -1971,7 +2201,8 @@
         "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj202003.pdf",
         "shortName": "2003",
         "id": 20074
-    }, {
+    },
+    {
         "stared": false,
         "duration": 500,
         "size": "2M",
@@ -1994,5 +2225,41 @@
         "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj202005.pdf",
         "shortName": "2005",
         "id": 20076
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "2M",
+        "name": "2020年6月彼得前書1-2章",
+        "description": "",
+        "songCount": 30,
+        "albumCategoryId": 5006,
+        "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj202006.pdf",
+        "shortName": "2006",
+        "id": 20077
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "2M",
+        "name": "2020年7月珥弥鸿番",
+        "description": "",
+        "songCount": 31,
+        "albumCategoryId": 5006,
+        "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj202007.pdf",
+        "shortName": "2007",
+        "id": 20078
+    },
+    {
+        "stared": false,
+        "duration": 500,
+        "size": "2M",
+        "name": "2020年8月箴言",
+        "description": "",
+        "songCount": 31,
+        "albumCategoryId": 5006,
+        "pdf": "https://rawcdn.githack.com/quiet324/EDZJ/190220/讲义资料/edzj/edzj202008.pdf",
+        "shortName": "2008",
+        "id": 20079
     }
 ]

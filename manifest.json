@@ -1,11 +1,11 @@
 {
-    "name": "lyapp2",
-    "short_name": "lyapp2",
+    "name": "良友好牧人",
+    "short_name": "良友好牧人",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "良友好牧人.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
