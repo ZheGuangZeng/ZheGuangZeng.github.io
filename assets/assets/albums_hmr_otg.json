@@ -493,12 +493,34 @@
         "stared": false,
         "duration": 1760,
         "size": "7M",
+        "name": "出埃及記系列二",
+        "description": "",
+        "songCount": 45,
+        "albumCategoryId": 4000,
+        "shortName": "Ex2",
+        "id": 10069
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
         "name": "利未记讲座",
         "description": "",
         "songCount": 12,
         "albumCategoryId": 4000,
         "shortName": "Lev1",
         "id": 10002
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "民數記導讀",
+        "description": "",
+        "songCount": 40,
+        "albumCategoryId": 4000,
+        "shortName": "Nu1",
+        "id": 10071
     },
     {
         "stared": false,
@@ -680,12 +702,34 @@
         "stared": false,
         "duration": 1760,
         "size": "7M",
+        "name": "阿摩司书系列",
+        "description": "",
+        "songCount": 16,
+        "albumCategoryId": 4000,
+        "shortName": "Amos1",
+        "id": 10070
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
         "name": "马太福音",
         "description": "",
         "songCount": 84,
         "albumCategoryId": 4001,
         "shortName": "MT1",
         "id": 10019
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "马太福音二",
+        "description": "",
+        "songCount": 52,
+        "albumCategoryId": 4001,
+        "shortName": "MT2",
+        "id": 10072
     },
     {
         "stared": false,
@@ -955,12 +999,34 @@
         "stared": false,
         "duration": 1760,
         "size": "7M",
+        "name": "希伯来书二",
+        "description": "",
+        "songCount": 49,
+        "albumCategoryId": 4001,
+        "shortName": "Heb2",
+        "id": 10073
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
         "name": "雅各书一",
         "description": "",
         "songCount": 5,
         "albumCategoryId": 4001,
         "shortName": "Jas1",
         "id": 10044
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "雅各书二",
+        "description": "",
+        "songCount": 12,
+        "albumCategoryId": 4001,
+        "shortName": "Jas2",
+        "id": 10075
     },
     {
         "stared": false,
@@ -983,6 +1049,17 @@
         "albumCategoryId": 4001,
         "shortName": "Rev",
         "id": 10046
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "从启示录的七教会谈今日的华人教会",
+        "description": "",
+        "songCount": 15,
+        "albumCategoryId": 4001,
+        "shortName": "Rev1",
+        "id": 10074
     },
     {
         "stared": false,
@@ -1225,83 +1302,6 @@
         "albumCategoryId": 4002,
         "shortName": "Sprtheo",
         "id": 10068
-    },
-    {
-        "stared": false,
-        "duration": 1760,
-        "size": "7M",
-        "name": "出埃及記系列二",
-        "description": "",
-        "songCount": 45,
-        "albumCategoryId": 4000,
-        "shortName": "Ex2",
-        "id": 10069
-    },
-    {
-        "stared": false,
-        "duration": 1760,
-        "size": "7M",
-        "name": "阿摩司书系列",
-        "description": "",
-        "songCount": 16,
-        "albumCategoryId": 4000,
-        "shortName": "Amos1",
-        "id": 10070
-    },
-    {
-        "stared": false,
-        "duration": 1760,
-        "size": "7M",
-        "name": "民數記導讀",
-        "description": "",
-        "songCount": 40,
-        "albumCategoryId": 4000,
-        "shortName": "Nu1",
-        "id": 10071
-    },
-    {
-        "stared": false,
-        "duration": 1760,
-        "size": "7M",
-        "name": "马太福音二",
-        "description": "",
-        "songCount": 52,
-        "albumCategoryId": 4001,
-        "shortName": "MT2",
-        "id": 10072
-    },
-    {
-        "stared": false,
-        "duration": 1760,
-        "size": "7M",
-        "name": "希伯来书二",
-        "description": "",
-        "songCount": 49,
-        "albumCategoryId": 4001,
-        "shortName": "Heb2",
-        "id": 10073
-    },
-    {
-        "stared": false,
-        "duration": 1760,
-        "size": "7M",
-        "name": "从启示录的七教会谈今日的华人教会",
-        "description": "",
-        "songCount": 15,
-        "albumCategoryId": 4001,
-        "shortName": "Rev1",
-        "id": 10074
-    },
-    {
-        "stared": false,
-        "duration": 1760,
-        "size": "7M",
-        "name": "雅各书二",
-        "description": "",
-        "songCount": 12,
-        "albumCategoryId": 4001,
-        "shortName": "Jas2",
-        "id": 10075
     },
     {
         "stared": false,

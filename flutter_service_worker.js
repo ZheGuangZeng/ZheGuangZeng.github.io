@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "623aaf9af883c1dd8c0bb2fff1e813ae",
-"index.html": "ee4cb49c9dc748ae8c215e32e5bdcd04",
-"/": "ee4cb49c9dc748ae8c215e32e5bdcd04",
+"index.html": "1f5e5bfca8abbd9cb621f3378664fdc9",
+"/": "1f5e5bfca8abbd9cb621f3378664fdc9",
 "main.dart.js": "d5eec31da8256f3befcb17f04373ab58",
 "favicon.png": "96d476813ac0ae420dc3cbccad68b31d",
 "icons/Icon-192.png": "aae347d1bb79890c298d2cdd7d16f242",
@@ -31,7 +31,7 @@ const RESOURCES = {
 "assets/assets/albumCategory.json": "5c268ad2ba37141d54e210d296fcee25",
 "assets/assets/bible_esv_songs.json": "310fe6ea5b9fcce4f66c93e3072e520f",
 "assets/assets/bible_haomuren_songs.json": "0bd644856c5745e9b830c06b6211efa0",
-"assets/assets/albums_hmr_otg.json": "174ef9e37ea1e9e8f42d2f2da4f46e73"
+"assets/assets/albums_hmr_otg.json": "cab024e4f3238c56669164cc3d53d3aa"
 };
 
 // The application shell files that are downloaded before a service worker can
