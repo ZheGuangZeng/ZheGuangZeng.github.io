@@ -13803,7 +13803,7 @@ else if(C.c.aI(a2,"http://audio.lyzhendao.net"))a2=C.c.dW(a2,C.c.S(a2,0,C.c.k5(a
 else if(C.c.aI(a2,a0))a2=C.c.dW(a2,a0,"https://dl.soundofbible.xyz/lyotg/")
 else if(C.c.aI(a2,"https://liangyoult.com/")){s=a2.length
 r=H.fa(C.c.S(a2,s-10,s-8),null)
-a2=r!=null&&r>=18&&!C.c.C(a2,"vof")?C.c.dW(a2,C.c.S(a2,0,C.c.k5(a2,a)),"http://dailyaudio-1253798207.file.myqcloud.com"):C.c.dW(a2,"https://liangyoult.com","http://febc-1253798207.file.myqcloud.com")}else if(C.c.aI(a2,"http://dailyaudio-1253798207.file.myqcloud.com/"))a2=C.c.dW(a2,C.c.S(a2,0,C.c.k5(a2,a)),"https://dailyaudio-1253798207.file.myqcloud.com/")
+a2=r!=null&&r>=18&&!C.c.C(a2,"vof")?C.c.dW(a2,C.c.S(a2,0,C.c.k5(a2,a)),"http://dailyaudio-1253798207.file.myqcloud.com"):C.c.dW(a2,"https://liangyoult.com","https://febc-1253798207.file.myqcloud.com")}else if(C.c.aI(a2,"http://dailyaudio-1253798207.file.myqcloud.com/"))a2=C.c.dW(a2,C.c.S(a2,0,C.c.k5(a2,a)),"https://dailyaudio-1253798207.file.myqcloud.com/")
 a2=P.vn(C.kX,a2,C.ah,!1)
 q=H.cY(a1.i(a3,"wx"))
 if(q!=null)a2="https://res.wx.qq.com/voice/getvoice?mediaid="+q
