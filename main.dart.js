@@ -13789,35 +13789,35 @@ this.c=null},
 azu:function azu(){},
 azv:function azv(){},
 aRi:function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q){return new F.fM(p,q,j,n,d,e,a,b,c,l,o,k,h,f,m)},
-aKR:function(a3){var s,r,q,p,o,n,m,l,k,j,i,h,g="https://rawcdn.githack.com/quiet324/HMR/190220/",f="http://media.haomuren.org/",e="https://febc.soundofbible.xyz/",d="https://rawcdn.githack.com/quiet324/HMR/181107/",c="https://rawcdn.githack.com/quiet324/BibleResourceEsv/190228/",b="https://rawcdn.githack.com/quiet324/BibleResourceHaoMuRen/180701/",a="/",a0="https://rawcdn.githack.com/quiet324/LYSA/180713/",a1=J.a2(a3),a2=H.aw(a1.i(a3,"path"))
-if(C.c.aI(a2,g))a2=C.c.dW(a2,g,"https://handel.ali.soundofbible.xyz/edzj/")
-else if(C.c.aI(a2,"http://media.haomuren.org/dev/"))a2=C.c.dW(a2,f,e)
-else if(C.c.aI(a2,"http://media.haomuren.org/devotion/"))a2=C.c.dW(a2,f,e)
-else if(C.c.aI(a2,"http://media.haomuren.org/Devotion/"))a2=C.c.dW(a2,f,e)
-else if(C.c.aI(a2,d))a2=C.c.dW(a2,d,"https://handel.ali.soundofbible.xyz/hmrotg/Message/")
-else if(C.c.aI(a2,c))a2=C.c.dW(a2,c,"https://handel.ali.soundofbible.xyz/bible/")
-else if(C.c.aI(a2,b))a2=C.c.dW(a2,b,"https://haomuren-1253798207.file.myqcloud.com/")
-else if(C.c.aI(a2,"http://txly2.net/ly/audio/2016/dp/")||C.c.aI(a2,"http://txly2.net/ly/audio/2015/dp/"))a2=C.c.dW(a2,C.c.S(a2,0,C.c.k5(a2,a)),"https://febc-1253798207.file.myqcloud.com/dp")
-else if(C.c.aI(a2,"https://rawcdn.githack.com/quiet324/LiangYouRadioResource20"))a2=C.c.C(a2,"mm20")?C.c.dW(a2,C.c.S(a2,0,C.c.k5(a2,a)),"https://febc-1253798207.file.myqcloud.com/mm"):C.c.dW(a2,C.c.S(a2,0,C.c.k5(a2,a)),u.e)
-else if(C.c.aI(a2,"http://audio.lyzhendao.net"))a2=C.c.dW(a2,C.c.S(a2,0,C.c.k5(a2,a)),"https://handel.ali.soundofbible.xyz/ZDFJ")
-else if(C.c.aI(a2,a0))a2=C.c.dW(a2,a0,"https://dl.soundofbible.xyz/lyotg/")
-else if(C.c.aI(a2,"https://liangyoult.com/")){s=a2.length
-r=H.fa(C.c.S(a2,s-10,s-8),null)
-a2=r!=null&&r>=18&&!C.c.C(a2,"vof")?C.c.dW(a2,C.c.S(a2,0,C.c.k5(a2,a)),"http://dailyaudio-1253798207.file.myqcloud.com"):C.c.dW(a2,"https://liangyoult.com","https://febc-1253798207.file.myqcloud.com")}else if(C.c.aI(a2,"http://dailyaudio-1253798207.file.myqcloud.com/"))a2=C.c.dW(a2,C.c.S(a2,0,C.c.k5(a2,a)),"https://dailyaudio-1253798207.file.myqcloud.com/")
-a2=P.vn(C.kX,a2,C.ah,!1)
-q=H.cY(a1.i(a3,"wx"))
-if(q!=null)a2="https://res.wx.qq.com/voice/getvoice?mediaid="+q
-s=H.cq(a1.i(a3,"id"))
-p=H.hb(a1.i(a3,"chapterId"))
-o=H.hb(a1.i(a3,"bookId"))
-n=H.hb(a1.i(a3,"bookType"))
-m=H.hb(a1.i(a3,"artistId"))
-l=H.cY(a1.i(a3,"artistName"))
-k=H.cY(a1.i(a3,"downUrl"))
-j=H.cY(a1.i(a3,"size"))
-i=H.cY(a1.i(a3,"time"))
-h=H.cY(a1.i(a3,"title"))
-return F.aRi(H.hb(a1.i(a3,"albumId")),H.cY(a1.i(a3,"albumName")),H.cY(a1.i(a3,"albumtitle")),m,l,o,n,p,k,null,s,a2,null,j,H.cY(a1.i(a3,"textContent")),i,h)},
+aKR:function(a4){var s,r,q,p,o,n,m,l,k,j,i,h,g="https://rawcdn.githack.com/quiet324/HMR/190220/",f="http://media.haomuren.org/",e="https://febc.soundofbible.xyz/",d="https://rawcdn.githack.com/quiet324/HMR/181107/",c="https://rawcdn.githack.com/quiet324/BibleResourceEsv/190228/",b="https://rawcdn.githack.com/quiet324/BibleResourceHaoMuRen/180701/",a="/",a0=u.e,a1="https://rawcdn.githack.com/quiet324/LYSA/180713/",a2=J.a2(a4),a3=H.aw(a2.i(a4,"path"))
+if(C.c.aI(a3,g))a3=C.c.dW(a3,g,"https://handel.ali.soundofbible.xyz/edzj/")
+else if(C.c.aI(a3,"http://media.haomuren.org/dev/"))a3=C.c.dW(a3,f,e)
+else if(C.c.aI(a3,"http://media.haomuren.org/devotion/"))a3=C.c.dW(a3,f,e)
+else if(C.c.aI(a3,"http://media.haomuren.org/Devotion/"))a3=C.c.dW(a3,f,e)
+else if(C.c.aI(a3,d))a3=C.c.dW(a3,d,"https://handel.ali.soundofbible.xyz/hmrotg/Message/")
+else if(C.c.aI(a3,c))a3=C.c.dW(a3,c,"https://handel.ali.soundofbible.xyz/bible/")
+else if(C.c.aI(a3,b))a3=C.c.dW(a3,b,"https://haomuren-1253798207.file.myqcloud.com/")
+else if(C.c.aI(a3,"http://txly2.net/ly/audio/2016/dp/")||C.c.aI(a3,"http://txly2.net/ly/audio/2015/dp/"))a3=C.c.dW(a3,C.c.S(a3,0,C.c.k5(a3,a)),"https://febc-1253798207.file.myqcloud.com/dp")
+else if(C.c.aI(a3,"https://rawcdn.githack.com/quiet324/LiangYouRadioResource20"))a3=C.c.C(a3,"mm20")?C.c.dW(a3,C.c.S(a3,0,C.c.k5(a3,a)),"https://febc-1253798207.file.myqcloud.com/mm"):C.c.dW(a3,C.c.S(a3,0,C.c.k5(a3,a)),a0)
+else if(C.c.aI(a3,"http://audio.lyzhendao.net"))a3=C.c.dW(a3,C.c.S(a3,0,C.c.k5(a3,a)),"https://handel.ali.soundofbible.xyz/ZDFJ")
+else if(C.c.aI(a3,a1))a3=C.c.dW(a3,a1,"https://dl.soundofbible.xyz/lyotg/")
+else if(C.c.aI(a3,"https://liangyoult.com/")){s=a3.length
+r=H.fa(C.c.S(a3,s-10,s-8),null)
+a3=r!=null&&r>=18&&!C.c.C(a3,"vof")?C.c.dW(a3,C.c.S(a3,0,C.c.k5(a3,a)),a0):C.c.dW(a3,"https://liangyoult.com","https://febc-1253798207.file.myqcloud.com")}else if(C.c.aI(a3,"http://dailyaudio-1253798207.file.myqcloud.com/"))a3=C.c.dW(a3,C.c.S(a3,0,C.c.k5(a3,a)),"https://dailyaudio-1253798207.file.myqcloud.com/")
+a3=P.vn(C.kX,a3,C.ah,!1)
+q=H.cY(a2.i(a4,"wx"))
+if(q!=null)a3="https://res.wx.qq.com/voice/getvoice?mediaid="+q
+s=H.cq(a2.i(a4,"id"))
+p=H.hb(a2.i(a4,"chapterId"))
+o=H.hb(a2.i(a4,"bookId"))
+n=H.hb(a2.i(a4,"bookType"))
+m=H.hb(a2.i(a4,"artistId"))
+l=H.cY(a2.i(a4,"artistName"))
+k=H.cY(a2.i(a4,"downUrl"))
+j=H.cY(a2.i(a4,"size"))
+i=H.cY(a2.i(a4,"time"))
+h=H.cY(a2.i(a4,"title"))
+return F.aRi(H.hb(a2.i(a4,"albumId")),H.cY(a2.i(a4,"albumName")),H.cY(a2.i(a4,"albumtitle")),m,l,o,n,p,k,null,s,a3,null,j,H.cY(a2.i(a4,"textContent")),i,h)},
 fM:function fM(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o){var _=this
 _.a=a
 _.b=b
