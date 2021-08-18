@@ -1032,6 +1032,28 @@
         "stared": false,
         "duration": 1760,
         "size": "7M",
+        "name": "八福系列",
+        "description": "",
+        "songCount": 16,
+        "albumCategoryId": 4002,
+        "shortName": "Beat",
+        "id": 10076
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
+        "name": "叙事文体释经法",
+        "description": "",
+        "songCount": 24,
+        "albumCategoryId": 4002,
+        "shortName": "Narr",
+        "id": 10077
+    },
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "7M",
         "name": "约翰一二三书",
         "description": "",
         "songCount": 12,

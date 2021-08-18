@@ -5,9 +5,9 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f06b9bcc8690cc5899a10ab266739648",
 "favicon.ico": "96d476813ac0ae420dc3cbccad68b31d",
-"index.html": "52fdc1b0a91d6852183a0e850e85ace6",
-"/": "52fdc1b0a91d6852183a0e850e85ace6",
-"main.dart.js": "76cbbbecea09ba10ef30210d9beae2c4",
+"index.html": "39384fb78a5d7f094c2fb7198285c295",
+"/": "39384fb78a5d7f094c2fb7198285c295",
+"main.dart.js": "f4973c3fead1dfef77566696f486b079",
 "favicon.png": "96d476813ac0ae420dc3cbccad68b31d",
 "icons/Icon-192.png": "aae347d1bb79890c298d2cdd7d16f242",
 "icons/Icon-512.png": "75dbf18e3e8ab9baa9c6937d5b0e4b2b",
@@ -53,7 +53,7 @@ const RESOURCES = {
 "assets/assets/albumCategory.json": "5c268ad2ba37141d54e210d296fcee25",
 "assets/assets/bible_esv_songs.json": "310fe6ea5b9fcce4f66c93e3072e520f",
 "assets/assets/bible_haomuren_songs.json": "0bd644856c5745e9b830c06b6211efa0",
-"assets/assets/albums_hmr_otg.json": "a0804352b52a851a2c82d180a0d370bf"
+"assets/assets/albums_hmr_otg.json": "37b83b31573099bcc24de4d9260c78ea"
 };
 
 // The application shell files that are downloaded before a service worker can
